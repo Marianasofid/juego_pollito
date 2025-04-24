@@ -1,2 +1,1 @@
 # juego_pollito
-# juegooo 

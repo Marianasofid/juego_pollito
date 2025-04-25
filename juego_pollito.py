@@ -13,14 +13,9 @@ AMARILLO = (255, 255, 0)
 
 pygame.init()
 
-pygame.init()
-
 ventana = pygame.display.set_mode((800,600))
 pygame.display.set_caption("Salva al pollito")
 
-<<<<<<< HEAD
-while True: 
-=======
 clock = pygame.time.Clock()
 
 # Tamaño del carro
@@ -112,18 +107,13 @@ fuente = pygame.font.SysFont("Arial", 30)
 while 1:
     clock.tick(50)
 
->>>>>>> daa0bd9 (actualizacion)
     for event in pygame.event.get():
-        if event.type == pygame.QUIT: 
-            pygame.quit()
+        if event.type == pygame.QUIT:
             sys.exit()
 
     teclas = pygame.key.get_pressed()
     cuadro_amarillo.update(teclas)
 
-<<<<<<< HEAD
-    pygame.display.flip()
-=======
     # Detectar colisiones entre el cuadro amarillo y los carros
     if pygame.sprite.spritecollide(cuadro_amarillo, grupo_carros_superior, False) or pygame.sprite.spritecollide(cuadro_amarillo, grupo_carros_inferior, False):
         vidas -= 1  # Reduce la vida en caso de colisión
@@ -197,4 +187,3 @@ while 1:
     pygame.draw.rect(ventana, NEGRO, (425, 90, 10, 30))
 
     pygame.display.flip()
->>>>>>> daa0bd9 (actualizacion)

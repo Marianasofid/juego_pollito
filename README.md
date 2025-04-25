@@ -1,5 +1,7 @@
 ### Salva al pollito
 
+##
+
 - Usa las **flechas del teclado** para mover al pollito:
 - `←` Mover a la izquierda  
 - `→` Mover a la derecha  

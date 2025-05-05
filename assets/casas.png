@@ -1,0 +1,1108 @@
+<!DOCTYPE html>
+<html lang="es"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script id="oa-360-1746327953890_g9cpjgj6x" async="true" class="boczne-Google">
+            (function() {
+              const code='/121764058,22693832767/de-gatit.com/de-gatit.com_o3b_display_adi_o3b_W1';
+
+              window.googletag = window.googletag || { cmd: [] };
+
+              let anchorSlotLeft= googletag.Slot | null;
+              let anchorSlotRight= googletag.Slot | null;
+
+              googletag.cmd.push(() => {
+                  anchorSlotLeft = googletag.defineOutOfPageSlot(code, googletag.enums.OutOfPageFormat.LEFT_SIDE_RAIL);
+                  anchorSlotLeft&&anchorSlotLeft.addService(googletag.pubads());
+
+                  anchorSlotRight = googletag.defineOutOfPageSlot(code, googletag.enums.OutOfPageFormat.RIGHT_SIDE_RAIL);
+                  anchorSlotRight&&anchorSlotRight.addService(googletag.pubads());
+
+                                googletag.enableServices();
+
+                  anchorSlotLeft&&googletag.display(anchorSlotLeft);
+                  anchorSlotRight&&googletag.display(anchorSlotRight);
+              })
+            })();
+            </script><style id="mailtoui-styles" type="text/css">.mailtoui-modal{background-color:#000;background-color:rgba(0,0,0,.4);bottom:0;color:#303131;display:none;height:100%;left:0;margin:0;padding:0;position:fixed;right:0;top:0;width:100%;z-index:1000}.mailtoui-modal-content{-webkit-animation:mailtoui-appear .4s;animation:mailtoui-appear .4s;background-color:#f1f5f8;border-radius:8px;bottom:auto;-webkit-box-shadow:0 4px 8px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);box-shadow:0 4px 8px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);left:50%;max-height:calc(100% - 100px);overflow:auto;padding:0;position:fixed;right:-45%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.mailtoui-modal-content:focus,.mailtoui-modal-content:hover{overflow-y:auto}@media only screen and (min-width:768px){.mailtoui-modal-content{right:auto}}.mailtoui-modal-head{-webkit-box-align:center;-ms-flex-align:center;align-items:center;background-color:#fff;clear:both;display:-webkit-box;display:-ms-flexbox;display:flex;min-width:0;padding:10px 20px}.mailtoui-modal-title{color:#303131;-webkit-box-flex:1;-ms-flex:1;flex:1;font-family:sans-serif;font-size:120%;font-weight:700;margin:0;overflow:hidden;padding:0;text-overflow:ellipsis;white-space:nowrap}.mailtoui-modal-close{color:#aaa;-webkit-box-flex:initial;-ms-flex:initial;flex:initial;font-size:38px;margin-left:20px;position:relative;text-align:right;text-decoration:none;top:-4px}.mailtoui-modal-close:focus,.mailtoui-modal-close:hover{color:#000;cursor:pointer;font-weight:700;outline:0}.mailtoui-modal-body{height:100%;padding:20px}.mailtoui-button{color:#333;text-decoration:none}.mailtoui-button:focus{outline:0}.mailtoui-button:focus .mailtoui-button-content{background-color:#555;color:#fff}.mailtoui-button-content{background-color:#fff;border:none;border-radius:8px;-webkit-box-shadow:0 2px 4px rgba(0,0,0,.18);box-shadow:0 2px 4px rgba(0,0,0,.18);margin-bottom:20px;overflow:hidden;padding:15px 20px;text-overflow:ellipsis;white-space:nowrap}.mailtoui-button-content:hover{background-color:#555;color:#fff}.mailtoui-button:last-child .mailtoui-button-content{margin-bottom:0}.mailtoui-button-icon{display:inline-block;font-weight:700;position:relative;top:4px}.mailtoui-button-icon svg{height:24px;width:24px}.mailtoui-button-text{display:inline-block;margin-left:5px;position:relative;top:-2px}.mailtoui-copy{border-radius:8px;-webkit-box-shadow:0 2px 4px rgba(0,0,0,.18);box-shadow:0 2px 4px rgba(0,0,0,.18);height:59px;margin-top:20px;position:relative}.mailtoui-button-copy{background-color:#fff;border:none;border-bottom-left-radius:8px;border-top-left-radius:8px;bottom:21px;color:#333;font-size:100%;height:100%;left:0;overflow:hidden;padding:15px 20px;position:absolute;text-overflow:ellipsis;top:0;white-space:nowrap;width:120px}.mailtoui-button-copy:focus,.mailtoui-button-copy:hover{background-color:#555;color:#fff;cursor:pointer;outline:0}.mailtoui-button-copy-clicked,.mailtoui-button-copy-clicked:focus,.mailtoui-button-copy-clicked:hover{background-color:#1f9d55;color:#fff}.mailtoui-button-copy-clicked .mailtoui-button-icon,.mailtoui-button-copy-clicked:focus .mailtoui-button-icon,.mailtoui-button-copy-clicked:hover .mailtoui-button-icon{display:none;visibility:hidden}.mailtoui-button-copy-clicked .mailtoui-button-text,.mailtoui-button-copy-clicked:focus .mailtoui-button-text,.mailtoui-button-copy-clicked:hover .mailtoui-button-text{color:#fff;top:2px}.mailtoui-email-address{background-color:#d8dcdf;border:none;border-radius:8px;-webkit-box-shadow:unset;box-shadow:unset;-webkit-box-sizing:border-box;box-sizing:border-box;color:#48494a;font-size:100%;height:100%;overflow:hidden;padding:20px 20px 20px 140px;text-overflow:ellipsis;white-space:nowrap;width:100%}.mailtoui-brand{color:#888;font-size:80%;margin-top:20px;text-align:center}.mailtoui-brand a{color:#888}.mailtoui-brand a:focus,.mailtoui-brand a:hover{font-weight:700;outline:0}.mailtoui-no-scroll{overflow:hidden;position:fixed;width:100%}.mailtoui-is-hidden{display:none;visibility:hidden}@-webkit-keyframes mailtoui-appear{0%{opacity:0;-webkit-transform:translate(-50%,-50%) scale(0,0);transform:translate(-50%,-50%) scale(0,0)}100%{opacity:1;-webkit-transform:translate(-50%,-50%) scale(1,1);transform:translate(-50%,-50%) scale(1,1)}}@keyframes mailtoui-appear{0%{opacity:0;-webkit-transform:translate(-50%,-50%) scale(0,0);transform:translate(-50%,-50%) scale(0,0)}100%{opacity:1;-webkit-transform:translate(-50%,-50%) scale(1,1);transform:translate(-50%,-50%) scale(1,1)}}</style>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        <meta name="keywords" content="edificio, Servicio, ventana, arquitectura medieval, propiedad, banco, elevación, jardinería, logo de servicio, Connecticut, Barrio residencial, bienes raíces, nuevo refugio, barrio, fachada, programa de jardinero maestro, financiar, casa, casa historica, cuenta de desarrollo individual, alojamiento, servicios, nuevo, refugio, png, png transparente, Descarga gratis">        <link rel="canonical" href="https://www.pngegg.com/es/png-xhqkd">        <title>Servicios
+ de vivienda en el vecindario de la ventana de banco de la casa nueva 
+casa refugio, hogar, edificio, Servicio png | PNGEgg</title>
+                <script>
+                    var isMobile=false;
+                </script>
+        <link rel="shortcut icon" href="https://www.pngegg.com/public/css/favicon.ico">
+        <link rel="stylesheet" href="casas_files/base.css">
+        <script data-ad-client="ca-pub-2606419576769320" async="" src="casas_files/adsbygoogle.js"></script><script async="" src="casas_files/plugin.min.js"></script>
+        <script async="" src="casas_files/js"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-YWXT8GSNWQ');
+        </script>
+
+        <link rel="alternate" hreflang="en" href="https://www.pngegg.com/en/png-xhqkd"><link rel="alternate" hreflang="es" href="https://www.pngegg.com/es/png-xhqkd"><link rel="alternate" hreflang="pt" href="https://www.pngegg.com/pt/png-xhqkd"><link rel="alternate" hreflang="ru" href="https://www.pngegg.com/ru/png-xhqkd"><link rel="alternate" hreflang="ko" href="https://www.pngegg.com/ko/png-xhqkd"><link rel="alternate" hreflang="id" href="https://www.pngegg.com/id/png-xhqkd"><link rel="alternate" hreflang="de" href="https://www.pngegg.com/de/png-xhqkd"><link rel="alternate" hreflang="tr" href="https://www.pngegg.com/tr/png-xhqkd"><link rel="alternate" hreflang="ar" href="https://www.pngegg.com/ar/png-xhqkd"><link rel="alternate" hreflang="fr" href="https://www.pngegg.com/fr/png-xhqkd"><link rel="alternate" hreflang="it" href="https://www.pngegg.com/it/png-xhqkd"><link rel="alternate" hreflang="nl" href="https://www.pngegg.com/nl/png-xhqkd"><link rel="alternate" hreflang="pl" href="https://www.pngegg.com/pl/png-xhqkd"><link rel="alternate" hreflang="sv" href="https://www.pngegg.com/sv/png-xhqkd"><link rel="alternate" hreflang="vi" href="https://www.pngegg.com/vi/png-xhqkd"><link rel="alternate" hreflang="th" href="https://www.pngegg.com/th/png-xhqkd"><link rel="alternate" hreflang="hu" href="https://www.pngegg.com/hu/png-xhqkd"><link rel="alternate" hreflang="el" href="https://www.pngegg.com/el/png-xhqkd"><link rel="alternate" hreflang="cs" href="https://www.pngegg.com/cs/png-xhqkd"><link rel="alternate" hreflang="ro" href="https://www.pngegg.com/ro/png-xhqkd"><link rel="alternate" hreflang="bg" href="https://www.pngegg.com/bg/png-xhqkd"><link rel="alternate" hreflang="bn" href="https://www.pngegg.com/bn/png-xhqkd">        <script async="" src="casas_files/pub-2606419576769320" nonce=""></script>
+        <script nonce="">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+        <script src="casas_files/aab.js"></script><script async="" src="casas_files/pub-2606419576769320_002" nonce=""></script>
+    <style id="oa-360-1746327953767_6qfkud31h" class="injectStyles">div[id*='oa-360-'][style*='visibility: hidden'] {
+        margin: 0!important;
+        max-height: 0px;
+      }</style><style></style><script id="oa-360-1746327953884_9yd6m3n7z" src="casas_files/gpt.js" async="true"></script><script id="oa-360-1746327953885_dpi14gbqn" src="casas_files/prebid9.28.2.js" async="true"></script><style id="oa-360-1746327953887_hqc8jad98" class="injectStyles">ins.staticpubads89354[data-slot="1"] {min-height: 325px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_xr4ymbk2q" class="injectStyles">ins.staticpubads89354[data-slot="2"] {min-height: 625px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_shnvfjoz3" class="injectStyles">ins.staticpubads89354[data-slot="3"] {min-height: 325px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_9gcyr6zr5" class="injectStyles">ins.staticpubads89354[data-slot="4"] {min-height: 325px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_f1b7bl41t" class="injectStyles">ins.staticpubads89354[data-slot="5"] {min-height: 325px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_x2nzufs2l" class="injectStyles">ins.staticpubads89354[data-slot="6"] {min-height: 325px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_3lcdqhxnn" class="injectStyles">ins.staticpubads89354[data-slot="7"] {min-height: 325px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_2rl47bmnb" class="injectStyles">ins.staticpubads89354[data-slot="8"] {min-height: 325px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_u5sgh2b4m" class="injectStyles">ins.staticpubads89354[data-slot="9"] {min-height: 325px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_1k49wcwfm" class="injectStyles">ins.staticpubads89354[data-slot="10"] {min-height: 325px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_d7i5ml4hz" class="injectStyles">ins.staticpubads89354[data-slot="11"] {min-height: 325px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_8njh1xgwm" class="injectStyles">ins.staticpubads89354[data-slot="12"] {min-height: 325px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_lbjor8qhg" class="injectStyles">ins.staticpubads89354[data-slot="13"] {min-height: 325px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_xks8aiiiq" class="injectStyles">ins.staticpubads89354[data-slot="14"] {min-height: 325px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_j64aacjhw" class="injectStyles">ins.staticpubads89354[data-slot="15"] {min-height: 325px; display: block; text-decoration: none}</style><style id="oa-360-1746327953887_eldk7x1i2" class="plugStyleName">[data-dest='placeholder'] > [style*='visibility: visible']  + div.placeholderPlug {display: none!important;}</style><style id="oa-360-1746327953890_t3hsezhtf">#gpt-passback {display: flex!important; justify-content: center;
+      }</style><script async="" src="casas_files/AGSKWxULzyFE4dav3fHCgjtoJZkHgG5-TA9CXHVzubnrDH_kksURTClJojllLCI0" nonce=""></script><script async="" src="casas_files/AGSKWxW-VGYD0f3qQYkhFlVaMyiocsQPdFsbdTVjLtkZa4sMvJ3rJ0y1mqXjFBpi" nonce=""></script><script async="" src="casas_files/AGSKWxXvDEemxgTH7EujzaboNoDlQx8BqoxuFkChQ43CR546KyA9IAkPS650d9en" nonce=""></script><style>.navigation[style*="display: none"] + .safetyArea {bottom: 0px;}.navigation[style*="display: block"] + .safetyArea, .navigation.fadeIn + .safetyArea {bottom: 60px;}</style></head>
+    <body itemscope="" itemtype="http://schema.org/ItemPage" ontouchstart="" id="bd"><div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-banner cc-type-info cc-theme-edgeless cc-bottom cc-color-override--1762072787 " style=""><!--googleoff: all--><span id="cookieconsent:desc" class="cc-message">This website uses cookies to ensure you get the best experience on our website. <a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link" href="https://www.pngegg.com/privacy-policy" rel="noopener noreferrer nofollow" target="_blank">Learn more</a></span><div class="cc-compliance"><a aria-label="dismiss cookie message" role="button" tabindex="0" class="cc-btn cc-dismiss">Got it!</a></div><!--googleon: all--></div><div id="mailtoui-modal" class="mailtoui-modal" style="display: none;" aria-hidden="true"><div class="mailtoui-modal-content"><div class="mailtoui-modal-head"><div id="mailtoui-modal-title" class="mailtoui-modal-title">Compose new email with</div><a id="mailtoui-modal-close" class="mailtoui-modal-close" href="#">×</a></div><div class="mailtoui-modal-body"><div class="mailtoui-clients"><a id="mailtoui-button-1" class="mailtoui-button" href="#"><div class="mailtoui-button-content"><span id="mailtoui-button-icon-1" class="mailtoui-button-icon"><svg viewBox="0 0 24 24"><g class="nc-icon-wrapper" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2" fill="currentColor" stroke="currentColor"><path data-cap="butt" data-color="color-2" fill="none" stroke-miterlimit="10" d="M5.704,2.979 c0.694,0.513,1.257,1.164,1.767,2.02C7.917,5.746,8.908,7.826,8,9c-1.027,1.328-4,1.776-4,3c0,0.921,1.304,1.972,2,3 c1.047,1.546,0.571,3.044,0,4c-0.296,0.496-0.769,0.92-1.293,1.234" stroke-linecap="butt"></path> <path data-cap="butt" data-color="color-2" fill="none" stroke-miterlimit="10" d="M20.668,5.227 C18.509,6.262,15.542,6.961,15,7c-1.045,0.075-1.2-0.784-2-2c-0.6-0.912-2-2.053-2-3c0-0.371,0.036-0.672,0.131-0.966" stroke-linecap="butt"></path> <circle fill="none" stroke="currentColor" stroke-miterlimit="10" cx="12" cy="12" r="11"></circle> <path data-cap="butt" data-color="color-2" fill="none" stroke-miterlimit="10" d="M19.014,12.903 C19.056,15.987,15.042,19.833,13,19c-1.79-0.73-0.527-2.138-0.986-6.097c-0.191-1.646,1.567-3,3.5-3S18.992,11.247,19.014,12.903z" stroke-linecap="butt"></path></g></svg></span> <span id="mailtoui-button-text-1" class="mailtoui-button-text">Gmail in browser</span></div></a><a id="mailtoui-button-2" class="mailtoui-button" href="#"><div class="mailtoui-button-content"><span id="mailtoui-button-icon-2" class="mailtoui-button-icon"><svg viewBox="0 0 24 24"><g class="nc-icon-wrapper" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2" fill="currentColor" stroke="currentColor"><path data-cap="butt" data-color="color-2" fill="none" stroke-miterlimit="10" d="M5.704,2.979 c0.694,0.513,1.257,1.164,1.767,2.02C7.917,5.746,8.908,7.826,8,9c-1.027,1.328-4,1.776-4,3c0,0.921,1.304,1.972,2,3 c1.047,1.546,0.571,3.044,0,4c-0.296,0.496-0.769,0.92-1.293,1.234" stroke-linecap="butt"></path> <path data-cap="butt" data-color="color-2" fill="none" stroke-miterlimit="10" d="M20.668,5.227 C18.509,6.262,15.542,6.961,15,7c-1.045,0.075-1.2-0.784-2-2c-0.6-0.912-2-2.053-2-3c0-0.371,0.036-0.672,0.131-0.966" stroke-linecap="butt"></path> <circle fill="none" stroke="currentColor" stroke-miterlimit="10" cx="12" cy="12" r="11"></circle> <path data-cap="butt" data-color="color-2" fill="none" stroke-miterlimit="10" d="M19.014,12.903 C19.056,15.987,15.042,19.833,13,19c-1.79-0.73-0.527-2.138-0.986-6.097c-0.191-1.646,1.567-3,3.5-3S18.992,11.247,19.014,12.903z" stroke-linecap="butt"></path></g></svg></span> <span id="mailtoui-button-text-2" class="mailtoui-button-text">Outlook in browser</span></div></a><a id="mailtoui-button-3" class="mailtoui-button" href="#"><div class="mailtoui-button-content"><span id="mailtoui-button-icon-3" class="mailtoui-button-icon"><svg viewBox="0 0 24 24"><g class="nc-icon-wrapper" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2" fill="currentColor" stroke="currentColor"><path data-cap="butt" data-color="color-2" fill="none" stroke-miterlimit="10" d="M5.704,2.979 c0.694,0.513,1.257,1.164,1.767,2.02C7.917,5.746,8.908,7.826,8,9c-1.027,1.328-4,1.776-4,3c0,0.921,1.304,1.972,2,3 c1.047,1.546,0.571,3.044,0,4c-0.296,0.496-0.769,0.92-1.293,1.234" stroke-linecap="butt"></path> <path data-cap="butt" data-color="color-2" fill="none" stroke-miterlimit="10" d="M20.668,5.227 C18.509,6.262,15.542,6.961,15,7c-1.045,0.075-1.2-0.784-2-2c-0.6-0.912-2-2.053-2-3c0-0.371,0.036-0.672,0.131-0.966" stroke-linecap="butt"></path> <circle fill="none" stroke="currentColor" stroke-miterlimit="10" cx="12" cy="12" r="11"></circle> <path data-cap="butt" data-color="color-2" fill="none" stroke-miterlimit="10" d="M19.014,12.903 C19.056,15.987,15.042,19.833,13,19c-1.79-0.73-0.527-2.138-0.986-6.097c-0.191-1.646,1.567-3,3.5-3S18.992,11.247,19.014,12.903z" stroke-linecap="butt"></path></g></svg></span> <span id="mailtoui-button-text-3" class="mailtoui-button-text">Yahoo in browser</span></div></a><a id="mailtoui-button-4" class="mailtoui-button" href="#"><div class="mailtoui-button-content"><span id="mailtoui-button-icon-4" class="mailtoui-button-icon"><svg viewBox="0 0 24 24"><g class="nc-icon-wrapper" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2" fill="currentColor" stroke="currentColor"><line data-color="color-2" fill="none" stroke-miterlimit="10" x1="5" y1="6" x2="6" y2="6"></line> <line data-color="color-2" fill="none" stroke-miterlimit="10" x1="10" y1="6" x2="11" y2="6"></line> <line data-color="color-2" fill="none" stroke-miterlimit="10" x1="15" y1="6" x2="19" y2="6"></line> <line fill="none" stroke="currentColor" stroke-miterlimit="10" x1="1" y1="10" x2="23" y2="10"></line> <rect x="1" y="2" fill="none" stroke="currentColor" stroke-miterlimit="10" width="22" height="20"></rect></g></svg></span> <span id="mailtoui-button-text-4" class="mailtoui-button-text">Default email app</span></div></a></div><div id="mailtoui-copy" class="mailtoui-copy"><div id="mailtoui-email-address" class="mailtoui-email-address"></div><button id="mailtoui-button-copy" class="mailtoui-button-copy" data-copytargetid="mailtoui-email-address"><span id="mailtoui-button-icon-copy" class="mailtoui-button-icon"><svg viewBox="0 0 24 24"><g class="nc-icon-wrapper" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2" stroke="currentColor"><polyline fill="none" stroke="currentColor" stroke-miterlimit="10" points="20,4 22,4 22,23 2,23 2,4 4,4 "></polyline> <path fill="none" stroke="currentColor" stroke-miterlimit="10" d="M14,3c0-1.105-0.895-2-2-2 s-2,0.895-2,2H7v4h10V3H14z"></path> <line data-color="color-2" fill="none" stroke-miterlimit="10" x1="7" y1="11" x2="17" y2="11"></line> <line data-color="color-2" fill="none" stroke-miterlimit="10" x1="7" y1="15" x2="17" y2="15"></line> <line data-color="color-2" fill="none" stroke-miterlimit="10" x1="7" y1="19" x2="11" y2="19"></line></g></svg></span> <span id="mailtoui-button-text-copy" class="mailtoui-button-text">Copy</span></button></div><div class="mailtoui-brand"><a href="https://mailtoui.com/?ref=ui" target="_blank">Powered by MailtoUI</a></div></div></div></div>
+        <header class="item_header">
+            <div id="navbar" class="navbar">
+                <div id="nav_inner">
+                    <a href="https://www.pngegg.com/es" class="nav_logo" rel="home">
+                        <img src="casas_files/logo.svg" alt="PNGEgg logo">
+                    </a>
+                    <div itemscope="" itemtype="http://schema.org/WebSite" id="search">
+                        <span class="search_icon">
+                            <svg version="1.1" width="22" height="30" viewBox="0 0 36 36" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink">
+                                <path class="clr-i-outline clr-i-outline-path-1" d="M16.33,5.05A10.95,10.95,0,1,1,5.39,16,11,11,0,0,1,16.33,5.05m0-2.05a13,13,0,1,0,13,13,13,13,0,0,0-13-13Z"></path><path class="clr-i-outline clr-i-outline-path-2" d="M35,33.29l-7.37-7.42-1.42,1.41,7.37,7.42A1,1,0,1,0,35,33.29Z"></path>
+                                <rect x="0" y="0" width="36" height="36" fill-opacity="0"></rect>
+                            </svg>
+                        </span>
+                        <link itemprop="url" href="https://www.pngegg.com/">
+                        <form itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" action="https://www.pngegg.com/es/search" onsubmit="document.getElementById('swidth').value=='' &amp;&amp; document.getElementById('swidth').parentNode.removeChild(document.getElementById('swidth'));document.getElementById('sheight').value=='' &amp;&amp; document.getElementById('sheight').parentNode.removeChild(document.getElementById('sheight'));return true;" id="search_form" method="get">
+                            <meta itemprop="target" content="https://www.pngegg.com/es/search?q={q}">
+                            <input placeholder="Buscar png" itemprop="query-input" type="search" name="q" id="search_input" pattern=".*\S+.*" required="">
+                            <input type="submit" value="" id="search_sub">
+                            <fieldset id="photos_field" class="search_genre">
+                                <div class="photos_option">
+                                    <div class="size_outer">
+                                        <input type="number" id="swidth" min="1" pattern="[1-9][0-9]*" step="1" name="width" placeholder="ancho mínimo">
+                                        <input type="number" name="height" id="sheight" min="1" pattern="[1-9][0-9]*" step="1" placeholder="altura mínima">
+                                    </div>
+                                </div>
+                            </fieldset>
+                        </form>
+                    </div>
+                    <div class="tag_outer">
+                        <a rel="nofollow" href="https://www.pngegg.com/submit" class="bgcolor">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                              <path fill="#FFFFFF" d="M5.20710678,12.5 L8.35355339,15.6464466 C8.54881554,15.8417088 8.54881554,16.1582912 8.35355339,16.3535534 C8.15829124,16.5488155 7.84170876,16.5488155 7.64644661,16.3535534 L3.64644661,12.3535534 C3.45118446,12.1582912 3.45118446,11.8417088 3.64644661,11.6464466 L7.64644661,7.64644661 C7.84170876,7.45118446 8.15829124,7.45118446 8.35355339,7.64644661 C8.54881554,7.84170876 8.54881554,8.15829124 8.35355339,8.35355339 L5.20710678,11.5 L16,11.5 C16.2761424,11.5 16.5,11.7238576 16.5,12 C16.5,12.2761424 16.2761424,12.5 16,12.5 L5.20710678,12.5 Z M16,4.5 C15.7238576,4.5 15.5,4.27614237 15.5,4 C15.5,3.72385763 15.7238576,3.5 16,3.5 L19,3.5 C20.3807119,3.5 21.5,4.61928813 21.5,6 L21.5,18 C21.5,19.3807119 20.3807119,20.5 19,20.5 L16,20.5 C15.7238576,20.5 15.5,20.2761424 15.5,20 C15.5,19.7238576 15.7238576,19.5 16,19.5 L19,19.5 C19.8284271,19.5 20.5,18.8284271 20.5,18 L20.5,6 C20.5,5.17157288 19.8284271,4.5 19,4.5 L16,4.5 Z" transform="rotate(90 12.5 12)"></path>
+                            </svg>
+                            Enviar PNG                        </a>
+                    </div>
+                                    </div>
+            </div>
+        </header>
+        <main role="main" id="mn">
+                            <div class="search_top_ad">
+                    <div class="search_top_ad_inner" id="top_ad_inner">
+                                                <ins class="staticpubads89354 adCreator" data-sizes-desktop="970x250,970x300,750x300,700x300,900x300,900x250" data-sizes-mobile="300x250,336x280,360x300,250x250" data-slot="1"><div id="oa-360-1746327953887_8pbrm0oax" data-dest="placeholder" style="min-height: 325px; background-image: linear-gradient(transparent, transparent); display: flex; justify-content: center; align-items: center; margin: 0px auto; width: 100%; text-align: center;"><div id="oa-360-1746327953887_a2egk8j79" class="placeholderPlug" style="color: rgba(170, 170, 170, 0.5) !important; padding: 0px 10px !important; border-radius: 10px !important; border: 2px solid !important; font-family: sans-serif !important; font-weight: 400 !important; letter-spacing: 3px !important; font-size: 40px !important; line-height: 60px !important; position: absolute !important;">ad</div></div></ins>
+                    </div>
+                </div>
+                        <h1 class="view_h1 overflow">Servicios de vivienda en el vecindario de la ventana de banco de la casa nueva casa refugio, hogar, edificio, Servicio png</h1>
+
+            <section itemprop="primaryImageOfPage" itemscope="" itemtype="http://schema.org/ImageObject" class="top_view resp">
+    <meta itemprop="representativeOfPage" content="true">
+    <meta itemprop="fileFormat" content="image/png">
+    <link itemprop="thumbnail" href="https://e7.pngegg.com/pngimages/680/779/png-clipart-neighborhood-housing-services-of-new-haven-home-house-bank-window-home-building-service-thumbnail.png">
+    <div class="left_view shadow">
+        <figure>
+            <img itemprop="contentUrl" alt="Servicios de vivienda en el vecindario de la ventana de banco de la casa nueva casa refugio, hogar, edificio, Servicio png" title="Servicios de vivienda en el vecindario de la ventana de banco de la casa nueva casa refugio, hogar, edificio, Servicio png" src="casas_files/png-clipart-neighborhood-housing-services-of-new-haven-home-.png" oncontextmenu="return false;">
+            <figcaption itemprop="caption description">Servicios de vivienda en el vecindario de la ventana de banco de la casa nueva casa refugio, hogar, edificio, Servicio png</figcaption>
+        </figure>
+        <!--<ins class="staticpubads89354" data-sizes-desktop="Player" data-sizes-mobile="Player" data-slot="InStreamAd"></ins>-->
+                <div style="margin-top:10px">
+                        <ins class="staticpubads89354 adCreator" data-sizes-desktop="700x100,750x100,700x200,750x200,750x300,700x300,300x250,336x280,360x300,250x250" data-sizes-mobile="300x250,336x280,360x300,250x250" data-slot="15"><div id="oa-360-1746327953888_8xb6sasjd" data-dest="placeholder" style="min-height: 325px; background-image: linear-gradient(transparent, transparent); display: flex; justify-content: center; align-items: center; margin: 0px auto; width: 100%; text-align: center;"><div id="oa-360-1746327953888_5280c0pxj" class="placeholderPlug" style="color: rgba(170, 170, 170, 0.5) !important; padding: 0px 10px !important; border-radius: 10px !important; border: 2px solid !important; font-family: sans-serif !important; font-weight: 400 !important; letter-spacing: 3px !important; font-size: 40px !important; line-height: 60px !important; position: absolute !important;">ad</div></div></ins>
+        </div>
+                        <h2 class="left_h2">Etiquetas PNG</h2>
+            <ul class="tag_ul" itemprop="keywords">
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=edificio">edificio</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=Servicio">Servicio</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=ventana">ventana</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=arquitectura+medieval">arquitectura medieval</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=propiedad">propiedad</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=banco">banco</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=elevaci%C3%B3n">elevación</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=jardiner%C3%ADa">jardinería</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=logo+de+servicio">logo de servicio</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=Connecticut">Connecticut</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=Barrio+residencial">Barrio residencial</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=bienes+ra%C3%ADces">bienes raíces</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=nuevo+refugio">nuevo refugio</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=barrio">barrio</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=fachada">fachada</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=programa+de+jardinero+maestro">programa de jardinero maestro</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=financiar">financiar</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=casa">casa</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=casa+historica">casa historica</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=cuenta+de+desarrollo+individual">cuenta de desarrollo individual</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=alojamiento">alojamiento</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=servicios">servicios</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=nuevo">nuevo</a>, </li>
+                                    <li><a rel="tag" href="https://www.pngegg.com/es/search?q=refugio">refugio</a>, </li>
+                                <li><a rel="tag">png</a>, </li><li><a rel="tag"> png transparente</a>, </li><li><a rel="tag"> Descarga gratis</a></li>            </ul>
+                <!--<h2 class="left_h2"></h2>
+        <p class="left_p">
+            , DMCA <a class="mailtoui" href="mailto:pngegg.com@gmail.com">Contact Us</a>
+        </p>-->
+                <a class="dld_btn bgcolor" rel="nofollow" href="https://www.pngegg.com/es/png-xhqkd/download">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+              <path fill="#FFFFFF" d="M14.7928932,11.5 L11.6464466,8.35355339 C11.4511845,8.15829124 11.4511845,7.84170876 11.6464466,7.64644661 C11.8417088,7.45118446 12.1582912,7.45118446 12.3535534,7.64644661 L16.3535534,11.6464466 C16.5488155,11.8417088 16.5488155,12.1582912 16.3535534,12.3535534 L12.3535534,16.3535534 C12.1582912,16.5488155 11.8417088,16.5488155 11.6464466,16.3535534 C11.4511845,16.1582912 11.4511845,15.8417088 11.6464466,15.6464466 L14.7928932,12.5 L4,12.5 C3.72385763,12.5 3.5,12.2761424 3.5,12 C3.5,11.7238576 3.72385763,11.5 4,11.5 L14.7928932,11.5 Z M16,4.5 C15.7238576,4.5 15.5,4.27614237 15.5,4 C15.5,3.72385763 15.7238576,3.5 16,3.5 L19,3.5 C20.3807119,3.5 21.5,4.61928813 21.5,6 L21.5,18 C21.5,19.3807119 20.3807119,20.5 19,20.5 L16,20.5 C15.7238576,20.5 15.5,20.2761424 15.5,20 C15.5,19.7238576 15.7238576,19.5 16,19.5 L19,19.5 C19.8284271,19.5 20.5,18.8284271 20.5,18 L20.5,6 C20.5,5.17157288 19.8284271,4.5 19,4.5 L16,4.5 Z" transform="rotate(90 12.5 12)"></path>
+            </svg>
+            Descargar PNG gratis ( 70.31KB )
+        </a>
+
+                    <!--<div itemscope itemtype="http://schema.org/WPAdBlock" style="margin:15px auto;text-align:center;">
+                <script type="text/javascript">
+                    atOptions = {
+                        'key' : '47465c85bf2fbc68bfa26906d335f5d5',
+                        'format' : 'iframe',
+                        'height' : 90,
+                        'width' : 728,
+                        'params' : {}
+                    };
+                    document.write('<scr' + 'ipt type="text/javascript" src="///47465c85bf2fbc68bfa26906d335f5d5/invoke.js"></scr' + 'ipt>');
+                </script>
+            </div>-->
+            </div>
+    <div class="aside">
+                <div class="view_right_ad">
+            <ins class="staticpubads89354 adCreator" data-sizes-desktop="300x600,200x600,120x600,160x600,250x250,300x250,300x300" data-slot="2"><div id="oa-360-1746327953888_86a8pldt0" data-dest="placeholder" style="min-height: 625px; background-image: linear-gradient(transparent, transparent); display: flex; justify-content: center; align-items: center; margin: 0px auto; width: 100%; text-align: center;"><div id="oa-360-1746327953888_8tyq9oo9l" class="placeholderPlug" style="color: rgba(170, 170, 170, 0.5) !important; padding: 0px 10px !important; border-radius: 10px !important; border: 2px solid !important; font-family: sans-serif !important; font-weight: 400 !important; letter-spacing: 3px !important; font-size: 40px !important; line-height: 60px !important; position: absolute !important;">ad</div></div></ins>
+        </div>
+                <div class="shadow">
+            <h2 class="h2_info">Información PNG</h2>
+            <dl class="info_list">
+                <div>
+                    <dt class="info_title">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                          <path fill="#333333" d="M20,19.2928932 L20,16.5 C20,16.2238576 20.2238576,16 20.5,16 C20.7761424,16 21,16.2238576 21,16.5 L21,20.5 C21,20.7761424 20.7761424,21 20.5,21 L16.5,21 C16.2238576,21 16,20.7761424 16,20.5 C16,20.2238576 16.2238576,20 16.5,20 L19.2928932,20 L16.1464466,16.8535534 C15.9511845,16.6582912 15.9511845,16.3417088 16.1464466,16.1464466 C16.3417088,15.9511845 16.6582912,15.9511845 16.8535534,16.1464466 L20,19.2928932 Z M4,4.70710678 L4,7.5 C4,7.77614237 3.77614237,8 3.5,8 C3.22385763,8 3,7.77614237 3,7.5 L3,3.5 C3,3.22385763 3.22385763,3 3.5,3 L7.5,3 C7.77614237,3 8,3.22385763 8,3.5 C8,3.77614237 7.77614237,4 7.5,4 L4.70710678,4 L7.85355339,7.14644661 C8.04881554,7.34170876 8.04881554,7.65829124 7.85355339,7.85355339 C7.65829124,8.04881554 7.34170876,8.04881554 7.14644661,7.85355339 L4,4.70710678 Z M4.70710678,20 L7.5,20 C7.77614237,20 8,20.2238576 8,20.5 C8,20.7761424 7.77614237,21 7.5,21 L3.5,21 C3.22385763,21 3,20.7761424 3,20.5 L3,16.5 C3,16.2238576 3.22385763,16 3.5,16 C3.77614237,16 4,16.2238576 4,16.5 L4,19.2928932 L7.14644661,16.1464466 C7.34170876,15.9511845 7.65829124,15.9511845 7.85355339,16.1464466 C8.04881554,16.3417088 8.04881554,16.6582912 7.85355339,16.8535534 L4.70710678,20 Z M19.2928932,4 L16.5,4 C16.2238576,4 16,3.77614237 16,3.5 C16,3.22385763 16.2238576,3 16.5,3 L20.5,3 C20.7761424,3 21,3.22385763 21,3.5 L21,7.53112887 C21,7.80727125 20.7761424,8.03112887 20.5,8.03112887 C20.2238576,8.03112887 20,7.80727125 20,7.53112887 L20,4.70710678 L16.8535534,7.85355339 C16.6582912,8.04881554 16.3417088,8.04881554 16.1464466,7.85355339 C15.9511845,7.65829124 15.9511845,7.34170876 16.1464466,7.14644661 L19.2928932,4 Z M8,10.4949109 C8,9.11668583 9.11540994,7.99843045 10.4936306,7.99491906 L13.4936306,7.98727573 C14.8807119,7.98726762 16,9.10655574 16,10.4872676 L16,13.5 C16,14.8807119 14.8807119,16 13.5,16 L10.5,16 C9.11928813,16 8,14.8807119 8,13.5 L8,10.4949109 Z M9,10.4949109 L9,13.5 C9,14.3284271 9.67157288,15 10.5,15 L13.5,15 C14.3284271,15 15,14.3284271 15,13.5 L15,10.4872676 C15,9.65884049 14.3284271,8.98726762 13.5,8.98726762 L10.4961784,8.99491581 C9.66924596,8.99702265 9,9.66797587 9,10.4949109 Z"></path>
+                        </svg>
+                        tamaño de la imagen                    </dt>
+                    <dd class="info_detail">1214x380px</dd>
+                </div>
+                <div>
+                    <dt class="info_title">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                          <path fill="#333333" d="M20,6.52897986 L20,19.5010024 C20,20.8817143 18.8807119,22.0010024 17.5,22.0010024 L6.5,22.0010024 C5.11928813,22.0010024 4,20.8817143 4,19.5010024 L4,4.50100238 C4,3.1202905 5.11928813,2.00100238 6.5,2.00100238 L15.4720225,2.00100238 C15.6047688,1.99258291 15.7429463,2.03684187 15.8535534,2.14744899 L19.8535534,6.14744899 C19.9641605,6.25805611 20.0084195,6.39623363 20,6.52897986 Z M15,3.00100238 L6.5,3.00100238 C5.67157288,3.00100238 5,3.67257525 5,4.50100238 L5,19.5010024 C5,20.3294295 5.67157288,21.0010024 6.5,21.0010024 L17.5,21.0010024 C18.3284271,21.0010024 19,20.3294295 19,19.5010024 L19,7.00100238 L15.5,7.00100238 C15.2238576,7.00100238 15,6.77714475 15,6.50100238 L15,3.00100238 Z M16,3.70810916 L16,6.00100238 L18.2928932,6.00100238 L16,3.70810916 Z M8.5,10 C8.22385763,10 8,9.77614237 8,9.5 C8,9.22385763 8.22385763,9 8.5,9 L15.5,9 C15.7761424,9 16,9.22385763 16,9.5 C16,9.77614237 15.7761424,10 15.5,10 L8.5,10 Z M8.5,13 C8.22385763,13 8,12.7761424 8,12.5 C8,12.2238576 8.22385763,12 8.5,12 L15.5,12 C15.7761424,12 16,12.2238576 16,12.5 C16,12.7761424 15.7761424,13 15.5,13 L8.5,13 Z M8.5,16 C8.22385763,16 8,15.7761424 8,15.5 C8,15.2238576 8.22385763,15 8.5,15 L13.5,15 C13.7761424,15 14,15.2238576 14,15.5 C14,15.7761424 13.7761424,16 13.5,16 L8.5,16 Z"></path>
+                        </svg>
+                        Tamaño del archivo                    </dt>
+                    <dd class="info_detail">70.31KB</dd>
+                </div>
+                <div>
+                    <dt class="info_title">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                          <path fill="#333333" d="M20,15.2928932 L20,5.5 C20,4.67157288 19.3284271,4 18.5,4 L5.5,4 C4.67157288,4 4,4.67157288 4,5.5 L4,12.2928932 L7.14644661,9.14644661 C7.34170876,8.95118446 7.65829124,8.95118446 7.85355339,9.14644661 L13.5,14.7928932 L16.1464466,12.1464466 C16.3417088,11.9511845 16.6582912,11.9511845 16.8535534,12.1464466 L20,15.2928932 Z M20,16.7071068 L16.5,13.2071068 L13.8535534,15.8535534 C13.6582912,16.0488155 13.3417088,16.0488155 13.1464466,15.8535534 L7.5,10.2071068 L4,13.7071068 L4,18.5 C4,19.3284271 4.67157288,20 5.5,20 L18.5,20 C19.3284271,20 20,19.3284271 20,18.5 L20,16.7071068 Z M3,5.5 C3,4.11928813 4.11928813,3 5.5,3 L18.5,3 C19.8807119,3 21,4.11928813 21,5.5 L21,18.5 C21,19.8807119 19.8807119,21 18.5,21 L5.5,21 C4.11928813,21 3,19.8807119 3,18.5 L3,5.5 Z M15,6 L17,6 C17.5522847,6 18,6.44771525 18,7 L18,9 C18,9.55228475 17.5522847,10 17,10 L15,10 C14.4477153,10 14,9.55228475 14,9 L14,7 C14,6.44771525 14.4477153,6 15,6 Z M15,7 L15,9 L17,9 L17,7 L15,7 Z"></path>
+                        </svg>
+                        Tipo MIME                    </dt>
+                    <dd class="info_detail">Image/png</dd>
+                </div>
+            </dl>
+        </div>
+        <div class="shadow">
+            <h2 class="h2_resize">cambiar el tamaño png</h2>
+            <div class="tabs">
+                <span class="cur_res" id="resizewidth">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                      <path fill="currentColor" d="M17.2928932,12 L6.70710678,12 L9.85355339,15.1464466 C10.0488155,15.3417088 10.0488155,15.6582912 9.85355339,15.8535534 C9.65829124,16.0488155 9.34170876,16.0488155 9.14644661,15.8535534 L5.14644661,11.8535534 C4.95118446,11.6582912 4.95118446,11.3417088 5.14644661,11.1464466 L9.14644661,7.14644661 C9.34170876,6.95118446 9.65829124,6.95118446 9.85355339,7.14644661 C10.0488155,7.34170876 10.0488155,7.65829124 9.85355339,7.85355339 L6.70710678,11 L17.2928932,11 L14.1464466,7.85355339 C13.9511845,7.65829124 13.9511845,7.34170876 14.1464466,7.14644661 C14.3417088,6.95118446 14.6582912,6.95118446 14.8535534,7.14644661 L18.8535534,11.1464466 C19.0488155,11.3417088 19.0488155,11.6582912 18.8535534,11.8535534 L14.8535534,15.8535534 C14.6582912,16.0488155 14.3417088,16.0488155 14.1464466,15.8535534 C13.9511845,15.6582912 13.9511845,15.3417088 14.1464466,15.1464466 L17.2928932,12 Z M20,3.5 C20,3.22385763 20.2238576,3 20.5,3 C20.7761424,3 21,3.22385763 21,3.5 L21,19.5 C21,19.7761424 20.7761424,20 20.5,20 C20.2238576,20 20,19.7761424 20,19.5 L20,3.5 Z M3,3.5 C3,3.22385763 3.22385763,3 3.5,3 C3.77614237,3 4,3.22385763 4,3.5 L4,19.5 C4,19.7761424 3.77614237,20 3.5,20 C3.22385763,20 3,19.7761424 3,19.5 L3,3.5 Z"></path>
+                    </svg>
+                    anchura(px)
+                </span>
+                <span id="resizeheight">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                      <path fill="currentColor" d="M12,6.70710678 L8.85355339,9.85355339 C8.65829124,10.0488155 8.34170876,10.0488155 8.14644661,9.85355339 C7.95118446,9.65829124 7.95118446,9.34170876 8.14644661,9.14644661 L12.1464466,5.14644661 C12.3417088,4.95118446 12.6582912,4.95118446 12.8535534,5.14644661 L16.8535534,9.14644661 C17.0488155,9.34170876 17.0488155,9.65829124 16.8535534,9.85355339 C16.6582912,10.0488155 16.3417088,10.0488155 16.1464466,9.85355339 L13,6.70710678 L13,17.2928932 L16.1464466,14.1464466 C16.3417088,13.9511845 16.6582912,13.9511845 16.8535534,14.1464466 C17.0488155,14.3417088 17.0488155,14.6582912 16.8535534,14.8535534 L12.8535534,18.8535534 C12.6582912,19.0488155 12.3417088,19.0488155 12.1464466,18.8535534 L8.14644661,14.8535534 C7.95118446,14.6582912 7.95118446,14.3417088 8.14644661,14.1464466 C8.34170876,13.9511845 8.65829124,13.9511845 8.85355339,14.1464466 L12,17.2928932 L12,6.70710678 Z M5.5,21 C5.22385763,21 5,20.7761424 5,20.5 C5,20.2238576 5.22385763,20 5.5,20 L19.5,20 C19.7761424,20 20,20.2238576 20,20.5 C20,20.7761424 19.7761424,21 19.5,21 L5.5,21 Z M5.5,4 C5.22385763,4 5,3.77614237 5,3.5 C5,3.22385763 5.22385763,3 5.5,3 L19.5,3 C19.7761424,3 20,3.22385763 20,3.5 C20,3.77614237 19.7761424,4 19.5,4 L5.5,4 Z"></path>
+                    </svg>
+                    altura(px)
+                </span>
+            </div>
+            <form class="resize_form" action="https://www.pngegg.com/es/png-xhqkd/download" method="GET">
+                <input type="number" class="resize_input" name="width" id="csize" min="1" required="">
+                <input type="submit" value="redimensionar" class="resize_sub bgcolor">
+                <span class="clear"></span>
+            </form>
+        </div>
+                <p class="ctus">
+            Uso no comercial, DMCA <a class="mailtoui" href="mailto:pngegg.com@gmail.com">Contact Us</a>
+        </p>
+    </div>
+    <span class="clear"></span>
+</section>
+    <div style="margin: 15px auto; text-align: center">
+        <ins class="staticpubads89354 adCreator" data-sizes-desktop="970x250,970x300,750x300,700x300,900x300,900x250" data-sizes-mobile="300x250,336x280,360x300,250x250" data-slot="3"><div id="oa-360-1746327953889_ipa37cy4c" data-dest="placeholder" style="min-height: 325px; background-image: linear-gradient(transparent, transparent); display: flex; justify-content: center; align-items: center; margin: 0px auto; width: 100%; text-align: center;"><div id="oa-360-1746327953889_jh0ax9478" class="placeholderPlug" style="color: rgba(170, 170, 170, 0.5) !important; padding: 0px 10px !important; border-radius: 10px !important; border: 2px solid !important; font-family: sans-serif !important; font-weight: 400 !important; letter-spacing: 3px !important; font-size: 40px !important; line-height: 60px !important; position: absolute !important;">ad</div></div></ins>
+    </div>
+<section>
+    <h2 class="related_heading">Imágenes png relevantes</h2>
+	<ul itemscope="" itemtype="http://schema.org/ImageGallery" id="list_ul" align="middle" style="width: 1846px; height: 4279px;">
+		
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 0px; left: 0px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/666/755/png-clipart-house-window-facade-residential-area-villa-house-building-elevation.png">
+		<meta itemprop="keywords" content="edificio, elevación, propiedad, labo, cabaña, casa, bienes raíces, techo, objetos, ventana, fachada, Barrio residencial, villa, residencial, zona, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-cjons" target="_blank">
+		        <img itemprop="thumbnail" alt="casa ventana fachada zona residencial villa, casa, edificio, elevación png thumbnail" title="casa ventana fachada zona residencial villa, casa, edificio, elevación png" src="casas_files/png-clipart-house-window-facade-residential-area-villa-house.png" data-src="https://e7.pngegg.com/pngimages/666/755/png-clipart-house-window-facade-residential-area-villa-house-building-elevation-thumbnail.png" class="lazy lst_img loaded" width="350" height="270" data-was-processed="true">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">casa ventana fachada zona residencial villa, casa, edificio, elevación png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">959x742px</span>
+		    <span class="right">1008.76KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 0px; left: 374px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/789/105/png-clipart-beige-house-with-manicured-lawn-house-home-apartment-house-building-apartment.png">
+		<meta itemprop="keywords" content="edificio, apartamento, habitación, elevación, propiedad, descargar con fondo transparente, techo, Barrio residencial, bienes raíces, objetos, casa png, cabaña, fachada, casa, edificio de apartamentos, beige, cuidado, césped, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-byklo" target="_blank">
+		        <img itemprop="thumbnail" alt="casa de color beige con césped bien cuidado, casa apartamento de casa, casa, edificio, apartamento png thumbnail" title="casa de color beige con césped bien cuidado, casa apartamento de casa, casa, edificio, apartamento png" src="casas_files/png-clipart-beige-house-with-manicured-lawn-house-home-apart.png" data-src="https://e7.pngegg.com/pngimages/789/105/png-clipart-beige-house-with-manicured-lawn-house-home-apartment-house-building-apartment-thumbnail.png" class="lazy lst_img loaded" width="350" height="223" data-was-processed="true">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">casa de color beige con césped bien cuidado, casa apartamento de casa, casa, edificio, apartamento png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">935x597px</span>
+		    <span class="right">180.7KB</span>
+		</footer>
+	</li>
+    
+                <li class="grid list_ads ad316" style="position: absolute; margin: 0px; top: 0px; left: 748px;">
+                    <ins style="min-height: 280px;" class="staticpubads89354 adCreator" data-sizes-desktop="300x250,336x280,360x300,250x250" data-sizes-mobile="300x250,336x280,360x300,250x250" data-slot="4"><div id="oa-360-1746327953889_jv363hkgf" data-dest="placeholder" style="min-height: 325px; background-image: linear-gradient(transparent, transparent); display: flex; justify-content: center; align-items: center; margin: 0px auto; width: 100%; text-align: center;"><div id="oa-360-1746327953889_nenpbxfwc" class="placeholderPlug" style="color: rgba(170, 170, 170, 0.5) !important; padding: 0px 10px !important; border-radius: 10px !important; border: 2px solid !important; font-family: sans-serif !important; font-weight: 400 !important; letter-spacing: 3px !important; font-size: 40px !important; line-height: 60px !important; position: absolute !important;">ad</div></div></ins>
+        </li>
+	    	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 0px; left: 1122px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/48/876/png-clipart-house-building-cottage-house-building-window.png">
+		<meta itemprop="keywords" content="edificio, ventana, Casa de jengibre, villa, casa de huespedes, propiedad, elevación, construcción de viviendas, Barrio residencial, techo, vía muerta, cabaña, bienes raíces, objetos, iconos de computadora, casa, fachada, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-oawyl" target="_blank">
+		        <img itemprop="thumbnail" alt="casa de construcción casa de campo, casa, edificio, ventana png thumbnail" title="casa de construcción casa de campo, casa, edificio, ventana png" src="casas_files/png-clipart-house-building-cottage-house-building-window-thu.png" data-src="https://e7.pngegg.com/pngimages/48/876/png-clipart-house-building-cottage-house-building-window-thumbnail.png" class="lazy lst_img loaded" width="350" height="295" data-was-processed="true">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">casa de construcción casa de campo, casa, edificio, ventana png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">800x677px</span>
+		    <span class="right">571.9KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 0px; left: 1496px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/933/301/png-clipart-house-architecture-residential-area-facade-roof-house-building-property.png">
+		<meta itemprop="keywords" content="edificio, propiedad, elevación, sede, Barrio residencial, bienes raíces, Residencia oficial, objetos, casa, Archi, fachada, sedes corporativas, propiedad comercial, edificio comercial, arquitectura, techo, residencial, zona, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-scoqu" target="_blank">
+		        <img itemprop="thumbnail" alt="casa arquitectura zona residencial fachada techo, casa, edificio, propiedad png thumbnail" title="casa arquitectura zona residencial fachada techo, casa, edificio, propiedad png" src="casas_files/png-clipart-house-architecture-residential-area-facade-roof-.png" data-src="https://e7.pngegg.com/pngimages/933/301/png-clipart-house-architecture-residential-area-facade-roof-house-building-property-thumbnail.png" class="lazy lst_img loaded" width="350" height="251" data-was-processed="true">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">casa arquitectura zona residencial fachada techo, casa, edificio, propiedad png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1753x1261px</span>
+		    <span class="right">2.81MB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 338px; left: 374px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/690/22/png-clipart-panorama-%C4%B0laclama-apartment-condominium-high-rise-building-insect-apartment-building-condominium.png">
+		<meta itemprop="keywords" content="edificio, condominio, apartamento, ventana, elevación, propiedad, edificio comercial, mundo de viajes, bloque de pisos, Barrio residencial, bienes raíces, barrio, Uso mixto, insecto, arquitectura, casa, edificio alto, fachada, sedes corporativas, panorama, la, lama, alto, subir, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-bgqay" target="_blank">
+		        <img itemprop="thumbnail" alt="panorama İlaçlama apartamento condominio edificio de gran altura insecto, apartamento, edificio, condominio png thumbnail" title="panorama İlaçlama apartamento condominio edificio de gran altura insecto, apartamento, edificio, condominio png" src="casas_files/png-clipart-panorama-%25C4%25B0laclama-apartment-condominium-hig.png" data-src="https://e7.pngegg.com/pngimages/690/22/png-clipart-panorama-İlaclama-apartment-condominium-high-rise-building-insect-apartment-building-condominium-thumbnail.png" class="lazy lst_img loaded" width="350" height="348" data-was-processed="true">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">panorama İlaçlama apartamento condominio edificio de gran altura insecto, apartamento, edificio, condominio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1000x1000px</span>
+		    <span class="right">3.92MB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 340px; left: 748px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/462/450/png-clipart-minecraft-house-building-house-building-interior-design-services-modern-house-furniture-building.png">
+		<meta itemprop="keywords" content="mueble, edificio, ventana, servicios de diseño de interiores, propiedad, elevación, Planta baja, pequeño movimiento de la casa, techo, bienes raíces, dúplex, casa moderna, arquitectura moderna, Minecraft, palacio, la construcción de viviendas, plan de la casa, casa, fachada, arquitectura, interior, diseño, servicios, moderno, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-dlriu" target="_blank">
+		        <img itemprop="thumbnail" alt="Minecraft servicios de diseño de interiores de edificios de casas de edificios, casas modernas, mueble, edificio png thumbnail" title="Minecraft servicios de diseño de interiores de edificios de casas de edificios, casas modernas, mueble, edificio png" src="casas_files/png-clipart-minecraft-house-building-house-building-interior.png" data-src="https://e7.pngegg.com/pngimages/462/450/png-clipart-minecraft-house-building-house-building-interior-design-services-modern-house-furniture-building-thumbnail.png" class="lazy lst_img loaded" width="350" height="268" data-was-processed="true">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Minecraft servicios de diseño de interiores de edificios de casas de edificios, casas modernas, mueble, edificio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">652x502px</span>
+		    <span class="right">113.01KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 366px; left: 1496px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/50/425/png-clipart-home-house-graphy-home-building-photography.png">
+		<meta itemprop="keywords" content="edificio, ventana, negocio, elevación, departamento de servicios de barrio, fotografía de stock, vía muerta, cobertizo, bienes raíces, casa, cabaña, fachada, puerta, kits de domótica, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-sjyjh" target="_blank">
+		        <img itemprop="thumbnail" alt="casa casa casa, edificio, ventana png thumbnail" title="casa casa casa, edificio, ventana png" src="casas_files/png-clipart-home-house-graphy-home-building-photography-thum.png" data-src="https://e7.pngegg.com/pngimages/50/425/png-clipart-home-house-graphy-home-building-photography-thumbnail.png" class="lazy lst_img loaded" width="350" height="300" data-was-processed="true">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">casa casa casa, edificio, ventana png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">600x517px</span>
+		    <span class="right">111.31KB</span>
+		</footer>
+	</li>
+    
+                <li class="grid list_ads ad316" style="position: absolute; margin: 0px; top: 385px; left: 0px;">
+                    <ins style="min-height: 280px;" class="staticpubads89354 adCreator" data-sizes-desktop="300x250,336x280,360x300,250x250" data-sizes-mobile="300x250,336x280,360x300,250x250" data-slot="5"><div id="oa-360-1746327953889_yk185tjhb" data-dest="placeholder" style="min-height: 325px; background-image: linear-gradient(transparent, transparent); display: flex; justify-content: center; align-items: center; margin: 0px auto; width: 100%; text-align: center;"><div id="oa-360-1746327953889_oy7c17se4" class="placeholderPlug" style="color: rgba(170, 170, 170, 0.5) !important; padding: 0px 10px !important; border-radius: 10px !important; border: 2px solid !important; font-family: sans-serif !important; font-weight: 400 !important; letter-spacing: 3px !important; font-size: 40px !important; line-height: 60px !important; position: absolute !important;">ad</div></div></ins>
+        </li>
+	    	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 410px; left: 1122px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/979/298/png-clipart-brown-2-storey-house-illustration-home-improvement-renovation-house-bathroom-real-estate-house-kitchen-angle.png">
+		<meta itemprop="keywords" content="cocina, ángulo, edificio, cerca, 3d, contratista general, servicios de diseño de interiores, villa, elevación, propiedad, ventilación, reparaciones en el hogar, ventana de reemplazo, real, bienes raíces, fachada, techo, objetos, modelo, palacio, inmuebles, casa, Ingeniería arquitectónica, alojamiento, edificio de apartamentos, logotipo de la casa, mejoras para el hogar, renovación, baño, casa de bienes, marrón, piso, ilustración, mejora, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-zgsgo" target="_blank">
+		        <img itemprop="thumbnail" alt="Ilustración de casa de 2 pisos, cuarto de baño de mejoras para el hogar, casa de bienes raíces, cocina, ángulo png thumbnail" title="Ilustración de casa de 2 pisos, cuarto de baño de mejoras para el hogar, casa de bienes raíces, cocina, ángulo png" src="casas_files/png-clipart-brown-2-storey-house-illustration-home-improveme.png" data-src="https://e7.pngegg.com/pngimages/979/298/png-clipart-brown-2-storey-house-illustration-home-improvement-renovation-house-bathroom-real-estate-house-kitchen-angle-thumbnail.png" class="lazy lst_img loaded" width="350" height="209" data-was-processed="true">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Ilustración de casa de 2 pisos, cuarto de baño de mejoras para el hogar, casa de bienes raíces, cocina, ángulo png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">4500x2701px</span>
+		    <span class="right">7.08MB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 723px; left: 748px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/330/741/png-clipart-home-inspection-house-mortgage-loan-real-estate-home-renovation-building-window.png">
+		<meta itemprop="keywords" content="edificio, ventana, seguro, propiedad, banco, elevación, agente inmobiliario, vía muerta, techo, Barrio residencial, remax llc, cabaña, objetos, inmuebles, seguro de hogar, casa, financiar, fachada, inspección de la casa, préstamo hipotecario, bienes raíces, renovación del hogar, inspección, hipoteca, préstamo, real, renovación, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-mfkse" target="_blank">
+		        <img itemprop="thumbnail" alt="inspección de la vivienda préstamo hipotecario casa bienes raíces, renovación del hogar, edificio, ventana png thumbnail" title="inspección de la vivienda préstamo hipotecario casa bienes raíces, renovación del hogar, edificio, ventana png" src="casas_files/png-clipart-home-inspection-house-mortgage-loan-real-estate-.png" data-src="https://e7.pngegg.com/pngimages/330/741/png-clipart-home-inspection-house-mortgage-loan-real-estate-home-renovation-building-window-thumbnail.png" class="lazy lst_img loaded" width="350" height="200" data-was-processed="true">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">inspección de la vivienda préstamo hipotecario casa bienes raíces, renovación del hogar, edificio, ventana png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">989x567px</span>
+		    <span class="right">610.05KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 725px; left: 0px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/982/389/png-clipart-independent-house-apartment-real-estate-duplex-house-building-villa.png">
+		<meta itemprop="keywords" content="edificio, villa, elevación, propiedad, sueño, alquiler, objetos, Barrio residencial, lote de tierra, casa, diseño de interiores, comunidad cerrada, arquitectura, Chennai, casa de sus sueños, casa ideal, dúplex, inmuebles, fachada, Planta baja, independiente, apartamento, bienes raíces, casa duplex, real, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-exijx" target="_blank">
+		        <img itemprop="thumbnail" alt="casa independiente apartamento bienes raices duplex, casa, edificio, villa png thumbnail" title="casa independiente apartamento bienes raices duplex, casa, edificio, villa png" src="casas_files/png-clipart-independent-house-apartment-real-estate-duplex-h.png" data-src="https://e7.pngegg.com/pngimages/982/389/png-clipart-independent-house-apartment-real-estate-duplex-house-building-villa-thumbnail.png" class="lazy lst_img loaded" width="350" height="182" data-was-processed="true">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">casa independiente apartamento bienes raices duplex, casa, edificio, villa png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">907x473px</span>
+		    <span class="right">623.72KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 734px; left: 1122px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/821/73/png-clipart-window-architecture-residential-area-house-commercial-building-residential-structure-building-condominium.png">
+		<meta itemprop="keywords" content="edificio, condominio, apartamento, ventana, elevación, propiedad, propiedad comercial, Barrio residencial, bienes raíces, Uso mixto, casa, arquitectura, fachada, edificio comercial, residencial, zona, comercial, estructura, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-klnou" target="_blank">
+		        <img itemprop="thumbnail" alt="Ventana arquitectura área residencial casa edificio comercial, estructura residencial, edificio, condominio png thumbnail" title="Ventana arquitectura área residencial casa edificio comercial, estructura residencial, edificio, condominio png" src="casas_files/png-clipart-window-architecture-residential-area-house-comme.png" data-src="https://e7.pngegg.com/pngimages/821/73/png-clipart-window-architecture-residential-area-house-commercial-building-residential-structure-building-condominium-thumbnail.png" class="lazy lst_img loaded" width="350" height="216" data-was-processed="true">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Ventana arquitectura área residencial casa edificio comercial, estructura residencial, edificio, condominio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1000x619px</span>
+		    <span class="right">86.5KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 759px; left: 1496px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/405/859/png-clipart-building-cartoon-facade-building-service-condominium.png">
+		<meta itemprop="keywords" content="Servicio, condominio, apartamento, oficina, seguro, ventana, Reino libre, propiedad, elevación, fotografía de stock, bienes raíces, objetos, casa, autopista, energía, dibujo, edificio comercial, arquitectura, edificio, dibujos animados, fachada, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-pvyqh" target="_blank">
+		        <img itemprop="thumbnail" alt="edificio fachada de dibujos animados, edificio, Servicio, condominio png thumbnail" title="edificio fachada de dibujos animados, edificio, Servicio, condominio png" src="casas_files/png-clipart-building-cartoon-facade-building-service-condomi.png" data-src="https://e7.pngegg.com/pngimages/405/859/png-clipart-building-cartoon-facade-building-service-condominium-thumbnail.png" class="lazy lst_img loaded" width="350" height="254" data-was-processed="true">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">edificio fachada de dibujos animados, edificio, Servicio, condominio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">616x449px</span>
+		    <span class="right">179.61KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 801px; left: 374px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/377/10/png-clipart-architectural-drawing-architecture-sketch-building-building-angle-building.png">
+		<meta itemprop="keywords" content="ángulo, edificio, condominio, plan, apartamento, rascacielos, Reino libre, estructura, propiedad, elevación, metrópoli, diseño urbano, sede, en blanco y negro, bienes raíces, Barrio residencial, arquitectura, estilo arquitectónico, dibujo arquitectónico, dibujo técnico, bloque de pisos, arquitectura brutalista, objetos, dibujo, sedes corporativas, fachada, edificio comercial, casa, construir, Uso mixto, arquitectura moderna, dibujar, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-edulh" target="_blank">
+		        <img itemprop="thumbnail" alt="dibujo arquitectónico arquitectura bosquejo edificio, edificio, ángulo, edificio png thumbnail" title="dibujo arquitectónico arquitectura bosquejo edificio, edificio, ángulo, edificio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/377/10/png-clipart-architectural-drawing-architecture-sketch-building-building-angle-building-thumbnail.png" class="lazy lst_img" width="350" height="369">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">dibujo arquitectónico arquitectura bosquejo edificio, edificio, ángulo, edificio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">800x848px</span>
+		    <span class="right">391.58KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 1022px; left: 0px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/102/463/png-clipart-house-cartoon-drawing-cottage-house-fence-fence-fencing.png">
+		<meta itemprop="keywords" content="cerca, Esgrima, Reino libre, propiedad, jardín, elevación, hogares, bienes raíces, Barrio residencial, planta, fotografía de stock, árbol, arquitectura del Paisaje, alojamiento, cosas de la casa, logotipo de la casa, casa, mejor, mejores casas, cabaña, energía, fachada, cercas, edificio de apartamentos, arboles, dibujos animados, dibujo, casa de Campo, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-znjte" target="_blank">
+		        <img itemprop="thumbnail" alt="Ilustración de casa marrón y azul, casa de dibujos animados dibujo casa de campo, cerca de la casa, cerca, Esgrima png thumbnail" title="Ilustración de casa marrón y azul, casa de dibujos animados dibujo casa de campo, cerca de la casa, cerca, Esgrima png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/102/463/png-clipart-house-cartoon-drawing-cottage-house-fence-fence-fencing-thumbnail.png" class="lazy lst_img" width="350" height="266">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Ilustración de casa marrón y azul, casa de dibujos animados dibujo casa de campo, cerca de la casa, cerca, Esgrima png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">655x500px</span>
+		    <span class="right">422.43KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 1038px; left: 748px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/608/578/png-clipart-brown-and-black-house-illustration-house-villa-drawing-illustration-luxury-villas-houses-angle-building.png">
+		<meta itemprop="keywords" content="ángulo, edificio, ventana, dibujos animados, elevación, propiedad, Art º, fondo de lujo, objetos, bienes raíces, Barrio residencial, vía muerta, afueras, pueblo, arte lineal, arquitectura, inmuebles, fachada, casa, logotipo de la casa, edificio de apartamentos, alojamiento, cosas de la casa, villa, dibujo, ilustración, lujo, villas, casas, marrón, negro, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-zpwer" target="_blank">
+		        <img itemprop="thumbnail" alt="Ilustración de casa marrón y negro, ilustración de dibujo de villa de casa, casas de villas de lujo, ángulo, edificio png thumbnail" title="Ilustración de casa marrón y negro, ilustración de dibujo de villa de casa, casas de villas de lujo, ángulo, edificio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/608/578/png-clipart-brown-and-black-house-illustration-house-villa-drawing-illustration-luxury-villas-houses-angle-building-thumbnail.png" class="lazy lst_img" width="350" height="348">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Ilustración de casa marrón y negro, ilustración de dibujo de villa de casa, casas de villas de lujo, ángulo, edificio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1181x1181px</span>
+		    <span class="right">3.2MB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 1065px; left: 1122px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/819/947/png-clipart-house-home-inspection-mt-juliet-real-estate-house-building-condominium.png">
+		<meta itemprop="keywords" content="edificio, condominio, ventana, elevación, propiedad, reparaciones en el hogar, fachada, objetos, inmuebles, Barrio residencial, techo, vía muerta, suburbio, calentamiento de agua, mt juliet, hvac, casa de Campo, comprador por primera vez, casa historica, casa, mejoras para el hogar, cabaña, agente inmobiliario, inspección de la casa, monte. Julieta, bienes raíces, finca - casa, inspección, monte, Julieta, real, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-nxvzg" target="_blank">
+		        <img itemprop="thumbnail" alt="casa casa inspeccion mt. juliet inmobiliaria, casa, edificio, condominio png thumbnail" title="casa casa inspeccion mt. juliet inmobiliaria, casa, edificio, condominio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/819/947/png-clipart-house-home-inspection-mt-juliet-real-estate-house-building-condominium-thumbnail.png" class="lazy lst_img" width="350" height="196">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">casa casa inspeccion mt. juliet inmobiliaria, casa, edificio, condominio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1920x1080px</span>
+		    <span class="right">2.58MB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 1128px; left: 1496px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/710/350/png-clipart-white-concrete-2-storey-3d-house-plan-housing-house-prefabricated-home-prefabrication-villa-design-of-two-luxury-villas-building-swimming-pool.png">
+		<meta itemprop="keywords" content="edificio, piscina, carro de lujo, ventana, acero, famoso, elevación, propiedad, puntos de interés, puntos, precio, bienes raíces, Barrio residencial, techo, viaje, dos, dos corazones, edificio modular, arquitectura moderna, fabricación, edificios, cabaña, inmuebles, fachada, carro familiar, edificios famosos, casa, interesar, kit de casa, lujoso, lujo, fondo de lujo, patrón de lujo, Art º, alojamiento, casa prefabricada, prefabricación, villa, diseño, villas, blanco, hormigón, piso, re, plan, prefabricado, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-nawmx" target="_blank">
+		        <img itemprop="thumbnail" alt="Plan de casas de hormigón blanco de 2 pisos, casas prefabricadas, casas prefabricadas, diseño de dos villas de lujo, edificio, piscina png thumbnail" title="Plan de casas de hormigón blanco de 2 pisos, casas prefabricadas, casas prefabricadas, diseño de dos villas de lujo, edificio, piscina png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/710/350/png-clipart-white-concrete-2-storey-3d-house-plan-housing-house-prefabricated-home-prefabrication-villa-design-of-two-luxury-villas-building-swimming-pool-thumbnail.png" class="lazy lst_img" width="350" height="232">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Plan de 
+casas de hormigón blanco de 2 pisos, casas prefabricadas, casas 
+prefabricadas, diseño de dos villas de lujo, edificio, piscina png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1100x733px</span>
+		    <span class="right">1.21MB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 1285px; left: 374px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/71/897/png-clipart-beige-concrete-building-illustration-building-apartment-scape-house-building-building-condominium.png">
+		<meta itemprop="keywords" content="edificio, condominio, naranja, ciudad, habitación, material, propiedad, elevación, diseño urbano, descargar con fondo transparente, bloque de pisos, Ingeniería arquitectónica, recurso, Barrio residencial, bienes raíces, arquitectura, materiales de construcción, objetos, barrio, Uso mixto, edificio png, gratis, edificio comercial, fachada, sedes corporativas, apartamento, fotos del paisaje, la construcción de viviendas, beige, hormigón, ilustración, bohordo, casa, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-bnmsb" target="_blank">
+		        <img itemprop="thumbnail" alt="Ilustración de edificio de hormigón de color beige, edificio apartamento scape casa, edificio, edificio, condominio png thumbnail" title="Ilustración de edificio de hormigón de color beige, edificio apartamento scape casa, edificio, edificio, condominio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/71/897/png-clipart-beige-concrete-building-illustration-building-apartment-scape-house-building-building-condominium-thumbnail.png" class="lazy lst_img" width="350" height="349">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Ilustración de edificio de hormigón de color beige, edificio apartamento scape casa, edificio, edificio, condominio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">503x504px</span>
+		    <span class="right">470.16KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 1376px; left: 1122px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/821/127/png-clipart-house-plan-architecture-interior-design-services-house-building-condominium.png">
+		<meta itemprop="keywords" content="edificio, condominio, apartamento, plan, servicios de diseño de interiores, arquitecto, habitación, elevación, propiedad, bienes raíces, Barrio residencial, objetos, arquitectura moderna, Uso mixto, plan de la casa, casa, fachada, dúplex, sedes corporativas, edificio comercial, arquitectura, piso, interior, diseño, servicios, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-xmjwr" target="_blank">
+		        <img itemprop="thumbnail" alt="Casa plan arquitectura servicios de diseño de interiores, casa., edificio, condominio png thumbnail" title="Casa plan arquitectura servicios de diseño de interiores, casa., edificio, condominio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/821/127/png-clipart-house-plan-architecture-interior-design-services-house-building-condominium-thumbnail.png" class="lazy lst_img" width="350" height="261">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Casa plan arquitectura servicios de diseño de interiores, casa., edificio, condominio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">3000x2250px</span>
+		    <span class="right">7.73MB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 1425px; left: 0px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/779/521/png-clipart-apartment-real-estate-condominium-residencial-recanto-do-sol-building-apartment-building-condominium.png">
+		<meta itemprop="keywords" content="edificio, condominio, apartamento, elevación, propiedad, suite, bloque de pisos, Santa Catarina, Barrio residencial, bienes raíces, Uso mixto, hotel, fachada, sedes corporativas, edificio comercial, mundo de viajes, real, inmuebles, residencial, recanto, Sol, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-skhhn" target="_blank">
+		        <img itemprop="thumbnail" alt="apartamento inmobiliario condominio residencial recanto do sol edificio, apartamento, edificio, condominio png thumbnail" title="apartamento inmobiliario condominio residencial recanto do sol edificio, apartamento, edificio, condominio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/779/521/png-clipart-apartment-real-estate-condominium-residencial-recanto-do-sol-building-apartment-building-condominium-thumbnail.png" class="lazy lst_img" width="350" height="333">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">apartamento inmobiliario condominio residencial recanto do sol edificio, apartamento, edificio, condominio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">807x772px</span>
+		    <span class="right">782.21KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 1497px; left: 1496px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/68/29/png-clipart-gray-and-white-concrete-mansion-house-property-real-estate-single-family-detached-home-suburb-european-house-building-condominium.png">
+		<meta itemprop="keywords" content="edificio, condominio, casas, villa, elevación, americano, propiedad administrativa, inmuebles, multifamiliar residencial, barrio, objetos, edificio de apartamentos, alquiler, Barrio residencial, techo, vivienda unifamiliar unifamiliar, lote de tierra, keller williams realty, agente inmobiliario, cabaña, frontera europea, fachada, casa, inspección de la casa, logotipo de la casa, continental, propiedad comercial, alojamiento, cosas de la casa, propiedad, bienes raíces, suburbio, europeo, gris, blanco, hormigón, palacio, real, soltero, familia, separado, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-buwve" target="_blank">
+		        <img itemprop="thumbnail" alt="mansión concreta gris y blanca, propiedad de la casa bienes raíces unifamiliares hogar suburbio separado, casa europea, edificio, condominio png thumbnail" title="mansión concreta gris y blanca, propiedad de la casa bienes raíces unifamiliares hogar suburbio separado, casa europea, edificio, condominio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/68/29/png-clipart-gray-and-white-concrete-mansion-house-property-real-estate-single-family-detached-home-suburb-european-house-building-condominium-thumbnail.png" class="lazy lst_img" width="350" height="233">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">mansión 
+concreta gris y blanca, propiedad de la casa bienes raíces unifamiliares
+ hogar suburbio separado, casa europea, edificio, condominio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1024x683px</span>
+		    <span class="right">934.05KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 1501px; left: 748px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/643/284/png-clipart-building-apartment-business-information-building-building-service.png">
+		<meta itemprop="keywords" content="edificio, Servicio, condominio, apartamento, negocio, elevación, edificio png, bienes raíces, objetos, Uso mixto, información, casa, edificio comercial, fachada, arquitectura, descargar con fondo transparente, sedes corporativas, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-bcujs" target="_blank">
+		        <img itemprop="thumbnail" alt="edificio apartamento información de negocios, edificio, edificio, Servicio png thumbnail" title="edificio apartamento información de negocios, edificio, edificio, Servicio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/643/284/png-clipart-building-apartment-business-information-building-building-service-thumbnail.png" class="lazy lst_img" width="350" height="303">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">edificio apartamento información de negocios, edificio, edificio, Servicio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">575x500px</span>
+		    <span class="right">376.49KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 1749px; left: 374px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/356/269/png-clipart-modern-architecture-architectural-drawing-sketch-design-angle-building.png">
+		<meta itemprop="keywords" content="ángulo, edificio, plan, ventana, servicios de diseño de interiores, arquitecto, estructura, elevación, propiedad, diseño industrial, bienes raíces, perspectiva, arquitectura moderna, moderno, línea, arquitectura, Art º, en blanco y negro, dibujo arquitectónico, dibujo, fachada, Planta baja, diseñador arquitectónico, casa, arquitectónico, bosquejo, diseño, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-kmnev" target="_blank">
+		        <img itemprop="thumbnail" alt="arquitectura moderna arquitectura dibujo boceto, diseño, ángulo, edificio png thumbnail" title="arquitectura moderna arquitectura dibujo boceto, diseño, ángulo, edificio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/356/269/png-clipart-modern-architecture-architectural-drawing-sketch-design-angle-building-thumbnail.png" class="lazy lst_img" width="350" height="266">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">arquitectura moderna arquitectura dibujo boceto, diseño, ángulo, edificio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1000x763px</span>
+		    <span class="right">270.34KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 1752px; left: 1122px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/561/920/png-clipart-school-cartoon-classroom-school-building-material-school-illustration-other-building.png">
+		<meta itemprop="keywords" content="otro, edificio, paisaje, Suministros escolares, autobús escolar, feliz cumpleaños vector imágenes, diseño, propiedad, elevación, modelo, bienes raíces, Barrio residencial, Consejo Escolar, edificio escolar, Niños de escuela, patio, Dom, arquitectura, escuela primaria nacional, línea, zona, De vuelta a la escuela, edificios, iconos de computadora, dibujo, educación, escuela, fachada, gráficos, casa, colegio, dibujos animados, salón de clases, material, ilustración, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-bzzhr" target="_blank">
+		        <img itemprop="thumbnail" alt="aula de dibujos animados de la escuela, material de construcción escolar, ilustración de la escuela, otro, edificio png thumbnail" title="aula de dibujos animados de la escuela, material de construcción escolar, ilustración de la escuela, otro, edificio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/561/920/png-clipart-school-cartoon-classroom-school-building-material-school-illustration-other-building-thumbnail.png" class="lazy lst_img" width="350" height="348">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">aula de dibujos animados de la escuela, material de construcción escolar, ilustración de la escuela, otro, edificio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1500x1500px</span>
+		    <span class="right">74.44KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 1867px; left: 1496px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/1014/302/png-clipart-vin%C4%8Da-villa-house-real-estate-apartment-european-construction-building-apartment.png">
+		<meta itemprop="keywords" content="edificio, apartamento, piscina, habitación, ventana, villa, elevación, propiedad, Belgrado, vinca, Ingeniería arquitectónica, serbia, arquitectura, techo, alquiler, bienes raíces, Balcanes, casa, fachada, construcción europea, vin, real, inmuebles, europeo, construcción, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-kikfi" target="_blank">
+		        <img itemprop="thumbnail" alt="Apartamento de la casa de la villa de la villa de vinča, construcción europea, edificio, apartamento png thumbnail" title="Apartamento de la casa de la villa de la villa de vinča, construcción europea, edificio, apartamento png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/1014/302/png-clipart-vinča-villa-house-real-estate-apartment-european-construction-building-apartment-thumbnail.png" class="lazy lst_img" width="350" height="194">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Apartamento de la casa de la villa de la villa de vinča, construcción europea, edificio, apartamento png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">700x390px</span>
+		    <span class="right">320.95KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 1873px; left: 0px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/180/433/png-clipart-apartment-real-estate-investing-building-house-apartment-television-angle.png">
+		<meta itemprop="keywords" content="televisión, ángulo, edificio, condominio, apartamento, ventana, casa de pueblo, elevación, propiedad, sedes corporativas, Propiedad real, alquiler, fotografía de stock, arquitectura, bloque de pisos, mundo de viajes, inversión inmobiliaria, bienes raíces, promotor inmobiliario, edificio comercial, Uso mixto, casa, fachada, dúplex, multifamiliar residencial, real, inmuebles, invirtiendo, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-kizfy" target="_blank">
+		        <img itemprop="thumbnail" alt="apartamento bienes raíces inversión edificio casa, apartamento, televisión, ángulo png thumbnail" title="apartamento bienes raíces inversión edificio casa, apartamento, televisión, ángulo png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/180/433/png-clipart-apartment-real-estate-investing-building-house-apartment-television-angle-thumbnail.png" class="lazy lst_img" width="350" height="233">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">apartamento bienes raíces inversión edificio casa, apartamento, televisión, ángulo png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">2000x1339px</span>
+		    <span class="right">2.62MB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 1919px; left: 748px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/327/106/png-clipart-architectural-drawing-sketch-architecture-plan-house-drawing-architectural-drawing.png">
+		<meta itemprop="keywords" content="dibujo, dibujo arquitectónico, arquitectura, plan, Art º, casa, servicios de diseño de interiores, plan de la casa, arquitecto, edificio, Plano de planta 3d, arte lineal, propiedad, estructura, bienes raíces, elevación, línea, fachada, zona, diagrama, ángulo, techo, cabaña, inmuebles, cobertizo, arquitectónico, bosquejo, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-wuybg" target="_blank">
+		        <img itemprop="thumbnail" alt="dibujo arquitectonico boceto arquitectura plan, casa, dibujo, dibujo arquitectónico png thumbnail" title="dibujo arquitectonico boceto arquitectura plan, casa, dibujo, dibujo arquitectónico png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/327/106/png-clipart-architectural-drawing-sketch-architecture-plan-house-drawing-architectural-drawing-thumbnail.png" class="lazy lst_img" width="350" height="287">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">dibujo arquitectonico boceto arquitectura plan, casa, dibujo, dibujo arquitectónico png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1000x824px</span>
+		    <span class="right">224.88KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 2130px; left: 374px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/472/852/png-clipart-400-099-web-banner-material-building-house-white-and-brown-concrete-house-surrounded-by-plants-condominium-room.png">
+		<meta itemprop="keywords" content="condominio, habitación, casas, flor, villa, negocio, propiedad, jardín, elevación, Casa embrujada, vivienda unifamiliar unifamiliar, objetos, árbol, comunidad privada, bienes raíces, alquiler, Barrio residencial, techo, piso, paisajismo, distrito de kathu, cabaña, energía, inmuebles, fachada, casa, casa Casa, logotipo de la casa, plan de la casa, cosas de la casa, alojamiento, edificio de apartamentos, banner web, material, edificio, web, bandera, blanco, marrón, hormigón, rodeado, plantas, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-bkijl" target="_blank">
+		        <img itemprop="thumbnail" alt="400 099 web banner material de construcción, casa, casa de concreto blanco y marrón rodeada de plantas, condominio, habitación png thumbnail" title="400 099 web banner material de construcción, casa, casa de concreto blanco y marrón rodeada de plantas, condominio, habitación png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/472/852/png-clipart-400-099-web-banner-material-building-house-white-and-brown-concrete-house-surrounded-by-plants-condominium-room-thumbnail.png" class="lazy lst_img" width="350" height="289">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">400 099 
+web banner material de construcción, casa, casa de concreto blanco y 
+marrón rodeada de plantas, condominio, habitación png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">848x702px</span>
+		    <span class="right">558.48KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 2176px; left: 1496px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/1004/343/png-clipart-window-property-facade-house-roof-luxury-home-building-window.png">
+		<meta itemprop="keywords" content="edificio, ventana, elevación, propiedad, techo, bienes raíces, casa de lujo, cabaña, casa, fachada, inmuebles, lujo, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-hqgsf" target="_blank">
+		        <img itemprop="thumbnail" alt="ventana propiedad fachada casa techo, casa de lujo, edificio, ventana png thumbnail" title="ventana propiedad fachada casa techo, casa de lujo, edificio, ventana png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/1004/343/png-clipart-window-property-facade-house-roof-luxury-home-building-window-thumbnail.png" class="lazy lst_img" width="350" height="187">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">ventana propiedad fachada casa techo, casa de lujo, edificio, ventana png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">820x440px</span>
+		    <span class="right">315.8KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 2215px; left: 1122px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/662/325/png-clipart-white-and-red-painted-building-illustration-wellawatte-visit-sri-lanka-gaur-yamuna-city-apartment-real-estate-building-building-condominium.png">
+		<meta itemprop="keywords" content="edificio, condominio, propiedad, elevación, metrópoli, sedes corporativas, objetos, Ingeniería arquitectónica, bienes raíces, inversión inmobiliaria, Barrio residencial, bloque de pisos, barrio, Uso mixto, edificio comercial, fachada, gaursons india, hotel, casa, colombo, área metropolitana, wellawatte, visitar, Sri Lanka, ciudad de gaur yamuna, apartamento, inmobiliaria - edificio, blanco, rojo, pintado, ilustración, sri, lanka, gaur, yamuna, ciudad, real, inmuebles, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-zoiwo" target="_blank">
+		        <img itemprop="thumbnail" alt="Ilustración de edificio pintado en blanco y rojo, visita de wellawatte, sri lanka gaur yamuna, apartamento de la ciudad, bienes raíces, edificio, edificio, condominio png thumbnail" title="Ilustración de edificio pintado en blanco y rojo, visita de wellawatte, sri lanka gaur yamuna, apartamento de la ciudad, bienes raíces, edificio, edificio, condominio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/662/325/png-clipart-white-and-red-painted-building-illustration-wellawatte-visit-sri-lanka-gaur-yamuna-city-apartment-real-estate-building-building-condominium-thumbnail.png" class="lazy lst_img" width="350" height="445">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Ilustración
+ de edificio pintado en blanco y rojo, visita de wellawatte, sri lanka 
+gaur yamuna, apartamento de la ciudad, bienes raíces, edificio, 
+edificio, condominio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">900x1150px</span>
+		    <span class="right">1.07MB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 2221px; left: 0px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/690/738/png-clipart-building-architectural-drawing-architecture-sketch-hand-painted-city-building-white-and-blue-building-illustration-watercolor-painting-angle.png">
+		<meta itemprop="keywords" content="pintura de acuarela, ángulo, edificio, condominio, ciudad, apartamento, plan, dibujado a mano, arquitecto, vector de construcción, Reino libre, pintar, estructura, propiedad, elevación, metrópoli, diseño urbano, arquitectura moderna, salpicadura de pintura, Cepillo de pintura, bienes raíces, Barrio residencial, pintado a mano, bloque de pisos, mundo de viajes, Uso mixto, edificios, línea, vector de la ciudad, edificio comercial, arquitectura brutalista, sedes corporativas, dibujo, fachada, en blanco y negro, obra de arte, Ingeniería arquitectónica, vector pintado a mano, Alto, casa, calle, dibujo arquitectónico, arquitectura, bosquejo, mano, pintado, edificio de la ciudad, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-bbrux" target="_blank">
+		        <img itemprop="thumbnail" alt="Dibujo arquitectónico del edificio, boceto de arquitectura, edificio de la ciudad pintado a mano, ilustración de edificio blanco y azul, pintura de acuarela, ángulo png thumbnail" title="Dibujo arquitectónico del edificio, boceto de arquitectura, edificio de la ciudad pintado a mano, ilustración de edificio blanco y azul, pintura de acuarela, ángulo png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/690/738/png-clipart-building-architectural-drawing-architecture-sketch-hand-painted-city-building-white-and-blue-building-illustration-watercolor-painting-angle-thumbnail.png" class="lazy lst_img" width="350" height="214">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Dibujo 
+arquitectónico del edificio, boceto de arquitectura, edificio de la 
+ciudad pintado a mano, ilustración de edificio blanco y azul, pintura de
+ acuarela, ángulo png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">874x537px</span>
+		    <span class="right">183.22KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 2321px; left: 748px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/500/525/png-clipart-white-house-illustration-house-villa-house-bathroom-landscape.png">
+		<meta itemprop="keywords" content="baño, paisaje, hierba, plantación, césped, propiedad, elevación, habitación, sala, paisajismo, objetos, planta, arquitectura, bienes raíces, Barrio residencial, techo, árbol, lote de tierra, casa png, cabaña, descargar con fondo transparente, casa de campo inglesa, inmuebles, agente inmobiliario, fachada, casa de Campo, gratis, casa, inspección de la casa, yarda, villa, blanco, ilustración, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-bbvam" target="_blank">
+		        <img itemprop="thumbnail" alt="ilustración de la casa blanca, casa villa, casa, baño, paisaje png thumbnail" title="ilustración de la casa blanca, casa villa, casa, baño, paisaje png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/500/525/png-clipart-white-house-illustration-house-villa-house-bathroom-landscape-thumbnail.png" class="lazy lst_img" width="350" height="220">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">ilustración de la casa blanca, casa villa, casa, baño, paisaje png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1036x653px</span>
+		    <span class="right">249.57KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 2478px; left: 1496px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/876/864/png-clipart-assorted-color-houses-vancouver-house-apartment-estate-agent-flat-town-house-angle-building.png">
+		<meta itemprop="keywords" content="ángulo, edificio, ciudad, casas, casa de pueblo, elevación, propiedad, vector de pueblo, alojamiento, línea, bienes raíces, Propiedad real, Barrio residencial, suburbio, pueblo, mundo de viajes, Vancouver, vector de casa, cosas de la casa, edificio de apartamentos, arquitectura, zona, diagrama, fachada, diseño plano, icono plano, vector plano, casa, logotipo de la casa, casa de Vancouver, apartamento, agente inmobiliario, plano, clasificado, color, inmuebles, agente, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-znhbl" target="_blank">
+		        <img itemprop="thumbnail" alt="casas de varios colores, casa de Vancouver agente inmobiliario, casa de pueblo, ángulo, edificio png thumbnail" title="casas de varios colores, casa de Vancouver agente inmobiliario, casa de pueblo, ángulo, edificio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/876/864/png-clipart-assorted-color-houses-vancouver-house-apartment-estate-agent-flat-town-house-angle-building-thumbnail.png" class="lazy lst_img" width="350" height="348">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">casas de varios colores, casa de Vancouver agente inmobiliario, casa de pueblo, ángulo, edificio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1500x1500px</span>
+		    <span class="right">68.97KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 2556px; left: 374px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/198/466/png-clipart-bank-account-sbi-po-exam-state-bank-of-india-financial-institution-bank-building-branch.png">
+		<meta itemprop="keywords" content="edificio, rama, estructura, banco, propiedad, punto de referencia, bienes raíces, banco estatal de India, objetos, examen de sbi po, casa, institución financiera, fachada, banco de dena, columna, arquitectura clasica, marca, cuenta bancaria, transferencia bancaria, cuenta, sbi, correos, examen, estado, India, financiero, institución, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-eimhu" target="_blank">
+		        <img itemprop="thumbnail" alt="cuenta bancaria sbi po examen banco estatal de india institución financiera, banco, edificio, rama png thumbnail" title="cuenta bancaria sbi po examen banco estatal de india institución financiera, banco, edificio, rama png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/198/466/png-clipart-bank-account-sbi-po-exam-state-bank-of-india-financial-institution-bank-building-branch-thumbnail.png" class="lazy lst_img" width="350" height="207">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">cuenta bancaria sbi po examen banco estatal de india institución financiera, banco, edificio, rama png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">651x386px</span>
+		    <span class="right">73.28KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 2572px; left: 0px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/682/26/png-clipart-building-branch-office-building-office.png">
+		<meta itemprop="keywords" content="edificio, oficina, oficina de microsoft, Reino libre, elevación, propiedad, arquitectura, oficina pequeña de officehome, bienes raíces, casa, fachada, edificio comercial, sucursal, Art º, fotografía de stock, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-dubae" target="_blank">
+		        <img itemprop="thumbnail" alt="edificio, sucursal, edificio, oficina png thumbnail" title="edificio, sucursal, edificio, oficina png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/682/26/png-clipart-building-branch-office-building-office-thumbnail.png" class="lazy lst_img" width="350" height="348">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">edificio, sucursal, edificio, oficina png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">600x600px</span>
+		    <span class="right">152.98KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 2656px; left: 748px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/777/754/png-clipart-brown-and-multicolored-house-near-trees-illustration-landscape-garden-property-villa-building-poster.png">
+		<meta itemprop="keywords" content="edificio, póster, paisaje, elevación, jardín, diseño de jardines, plantar flores, microdistrict, bienes raíces, Barrio residencial, techo, camino de piedra, árbol, arboles, paisajismo, arquitectura del Paisaje, arquitectura, balcón, diseño de construcción, cabaña, patrones decorativos, inmuebles, fachada, gratis, verdeado, casa, elementos publicitarios, jardín de paisaje, propiedad, villa, marrón, multicolor, cerca, ilustración, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-bwvuk" target="_blank">
+		        <img itemprop="thumbnail" alt="Casa marrón y multicolor cerca de árboles, jardín paisajístico, propiedad villa, edificio, póster png thumbnail" title="Casa marrón y multicolor cerca de árboles, jardín paisajístico, propiedad villa, edificio, póster png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/777/754/png-clipart-brown-and-multicolored-house-near-trees-illustration-landscape-garden-property-villa-building-poster-thumbnail.png" class="lazy lst_img" width="350" height="241">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Casa marrón y multicolor cerca de árboles, jardín paisajístico, propiedad villa, edificio, póster png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">800x554px</span>
+		    <span class="right">780.71KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 2797px; left: 1122px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/404/149/png-clipart-high-rise-buildings-near-trees-building-computer-file-building-condominium-apartment.png">
+		<meta itemprop="keywords" content="condominio, apartamento, trabajo en equipo, propiedad, elevación, edificio de oficinas, metrópoli, edificios de la ciudad, diseño urbano, polla, bloques de construcción, bloque de pisos, barrio, objetos, Barrio residencial, proyecto, suburbio, bienes raíces, edificio escolar, Uso mixto, área metropolitana, arquitectura, construir, edificios, edificio comercial, sedes corporativas, fachada, gratis, televisión de alta definición, edificio alto, hotel, casa, vecteur, edificio, archivo de computadora, alto, subir, cerca, arboles, computadora, expediente, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-bzhnn" target="_blank">
+		        <img itemprop="thumbnail" alt="edificios de gran altura cerca de árboles, edificio archivo de computadora, edificio, condominio, apartamento png thumbnail" title="edificios de gran altura cerca de árboles, edificio archivo de computadora, edificio, condominio, apartamento png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/404/149/png-clipart-high-rise-buildings-near-trees-building-computer-file-building-condominium-apartment-thumbnail.png" class="lazy lst_img" width="350" height="281">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">edificios de gran altura cerca de árboles, edificio archivo de computadora, edificio, condominio, apartamento png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1394x1125px</span>
+		    <span class="right">1.36MB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 2878px; left: 374px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/22/856/png-clipart-white-high-rise-building-3d-perspective-view-high-rise-building-skyscraper-house-city-skyscrapers-kind-shooting-building-condominium.png">
+		<meta itemprop="keywords" content="edificio, condominio, apartamento, silueta de la ciudad, nueva York, torre, elevación, skyscrapercity, metrópoli, diseño urbano, fachada, bloque de pisos, Ingeniería arquitectónica, paisaje de la ciudad, El horizonte de la ciudad, disparo, Barrio residencial, bienes raíces, objetos, edificio comercial, barrio, Uso mixto, área metropolitana, sedes corporativas, tipo, edificio alto, Alto, rascacielos, casa, ciudad, blanco, subir, re, perspectiva, ver, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-bfbfn" target="_blank">
+		        <img itemprop="thumbnail" alt="edificio alto blanco vista en perspectiva 3d, rascacielos casa rascacielos, rascacielos de la ciudad tipo de tiro, edificio, condominio png thumbnail" title="edificio alto blanco vista en perspectiva 3d, rascacielos casa rascacielos, rascacielos de la ciudad tipo de tiro, edificio, condominio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/22/856/png-clipart-white-high-rise-building-3d-perspective-view-high-rise-building-skyscraper-house-city-skyscrapers-kind-shooting-building-condominium-thumbnail.png" class="lazy lst_img" width="350" height="372">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">edificio 
+alto blanco vista en perspectiva 3d, rascacielos casa rascacielos, 
+rascacielos de la ciudad tipo de tiro, edificio, condominio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">3072x3278px</span>
+		    <span class="right">19.02MB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 2941px; left: 1496px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/1016/226/png-clipart-floor-plan-home-house-home-angle-furniture.png">
+		<meta itemprop="keywords" content="ángulo, mueble, edificio, baño, habitación, plan, servicios de diseño de interiores, esquemático, elevación, Barrio residencial, bienes raíces, planta, pandan, minimalismo, casa, piso, fachada, dibujo, zona, arquitectura, metro cuadrado, Planta baja, casa casa, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-iajds" target="_blank">
+		        <img itemprop="thumbnail" alt="plano de casa casa casa hogar, ángulo, mueble png thumbnail" title="plano de casa casa casa hogar, ángulo, mueble png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/1016/226/png-clipart-floor-plan-home-house-home-angle-furniture-thumbnail.png" class="lazy lst_img" width="350" height="611">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">plano de casa casa casa hogar, ángulo, mueble png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">912x1600px</span>
+		    <span class="right">1.71MB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 3012px; left: 748px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/54/1018/png-clipart-city-building-illustration-suniksha-realty-real-estate-house-sky-commercial-real-estate-advertising-building-condominium.png">
+		<meta itemprop="keywords" content="edificio, condominio, ciudad, póster, apartamento, césped, propiedad, elevación, diseño urbano, patrones decorativos, arboles, árbol, Barrio residencial, bienes raíces, campus, elementos comerciales, barrio, Uso mixto, área metropolitana, prado, publicidad de bienes raíces comerciales, casa, sedes corporativas, verde, fachada, inmuebles, casa de bienes, cielo, bienes raíces comerciales, publicidad, ilustración, suniksha, real, comercial, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-bnube" target="_blank">
+		        <img itemprop="thumbnail" alt="Ilustración del edificio de la ciudad, Suniksha Realty Real Estate House Sky, publicidad de bienes raíces comerciales, edificio, condominio png thumbnail" title="Ilustración del edificio de la ciudad, Suniksha Realty Real Estate House Sky, publicidad de bienes raíces comerciales, edificio, condominio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/54/1018/png-clipart-city-building-illustration-suniksha-realty-real-estate-house-sky-commercial-real-estate-advertising-building-condominium-thumbnail.png" class="lazy lst_img" width="350" height="219">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Ilustración
+ del edificio de la ciudad, Suniksha Realty Real Estate House Sky, 
+publicidad de bienes raíces comerciales, edificio, condominio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">800x503px</span>
+		    <span class="right">826.26KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 3013px; left: 0px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/492/808/png-clipart-house-graphy-house-white-and-red-house-illustration-angle-building.png">
+		<meta itemprop="keywords" content="ángulo, edificio, casas, servicios de diseño de interiores, diseño, propiedad, elevación, Casa embrujada, techo, alojamiento, ilustración, línea, objetos, piso, bienes raíces, modelo, cosas de la casa, plan de la casa, edificio de apartamentos, zona, Artes Decorativas, dibujo, energía, fachada, gráficos, casa, logotipo de la casa, pequeño movimiento de la casa, casa stock, fotografía de stock, arte - casa, blanco, rojo, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-bdvcc" target="_blank">
+		        <img itemprop="thumbnail" alt="Casa, casa, casa blanca y roja ilustración., ángulo, edificio png thumbnail" title="Casa, casa, casa blanca y roja ilustración., ángulo, edificio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/492/808/png-clipart-house-graphy-house-white-and-red-house-illustration-angle-building-thumbnail.png" class="lazy lst_img" width="350" height="348">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Casa, casa, casa blanca y roja ilustración., ángulo, edificio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">500x500px</span>
+		    <span class="right">80.99KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 3193px; left: 1122px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/6/17/png-clipart-house-silhouette-building-house-angle-photography.png">
+		<meta itemprop="keywords" content="ángulo, fotografía, casas, monocromo, feliz cumpleaños vector imágenes, Reino libre, material, propiedad, elevación, alojamiento, arquitectura moderna, bienes raíces, fotografía monocromática, objetos, Barrio residencial, vector de casa, edificio de apartamentos, arquitectura, en blanco y negro, marca, casa de dibujos animados, inmuebles, fachada, casa, logotipo de la casa, plan de la casa, cosas de la casa, silueta, edificio, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-zmzyu" target="_blank">
+		        <img itemprop="thumbnail" alt="ilustración de estilo de casa surtida, edificio de silueta de casa, casa, ángulo, fotografía png thumbnail" title="ilustración de estilo de casa surtida, edificio de silueta de casa, casa, ángulo, fotografía png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/6/17/png-clipart-house-silhouette-building-house-angle-photography-thumbnail.png" class="lazy lst_img" width="350" height="242">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">ilustración de estilo de casa surtida, edificio de silueta de casa, casa, ángulo, fotografía png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1584x1100px</span>
+		    <span class="right">59.51KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 3368px; left: 748px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/77/222/png-clipart-haunted-house-graphy-haunted-house-building-window.png">
+		<meta itemprop="keywords" content="edificio, ventana, arquitectura medieval, propiedad, Art º, objetos, bienes raíces, techo, palacio, casa señorial, artista, cabaña, arte digital, fachada, casa historica, casa, casa stock, obra de arte, Casa embrujada, obsesionado, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-pxzat" target="_blank">
+		        <img itemprop="thumbnail" alt="casa embrujada casa embrujada, edificio, ventana png thumbnail" title="casa embrujada casa embrujada, edificio, ventana png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/77/222/png-clipart-haunted-house-graphy-haunted-house-building-window-thumbnail.png" class="lazy lst_img" width="350" height="247">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">casa embrujada casa embrujada, edificio, ventana png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1024x726px</span>
+		    <span class="right">1MB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 3387px; left: 374px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/315/398/png-clipart-property-mixed-use-condominium-residential-building-building-condominium.png">
+		<meta itemprop="keywords" content="edificio, condominio, elevación, propiedad, edificio residencial, casa, Uso mixto, fachada, bienes raíces, mezclado, utilizar, residencial, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-davax" target="_blank">
+		        <img itemprop="thumbnail" alt="Propiedad de uso mixto condominio, edificio residencial., edificio, condominio png thumbnail" title="Propiedad de uso mixto condominio, edificio residencial., edificio, condominio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/315/398/png-clipart-property-mixed-use-condominium-residential-building-building-condominium-thumbnail.png" class="lazy lst_img" width="350" height="206">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Propiedad de uso mixto condominio, edificio residencial., edificio, condominio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1280x757px</span>
+		    <span class="right">637.06KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 3476px; left: 0px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/479/315/png-clipart-construction-building-window-architecture-residential-area-corporate-philosophy-company-building.png">
+		<meta itemprop="keywords" content="empresa, edificio, condominio, apartamento, ventana, puente, elevación, propiedad, construcción, Uso mixto, barrio, bienes raíces, Barrio residencial, bloque de pisos, casa, fachada, arquitectura, filosofía corporativa, sedes corporativas, arquitectura brutalista, edificio comercial, residencial, zona, corporativo, filosofía, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-ewfum" target="_blank">
+		        <img itemprop="thumbnail" alt="construccion edificio ventana arquitectura area residencial, filosofia corporativa, empresa, edificio png thumbnail" title="construccion edificio ventana arquitectura area residencial, filosofia corporativa, empresa, edificio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/479/315/png-clipart-construction-building-window-architecture-residential-area-corporate-philosophy-company-building-thumbnail.png" class="lazy lst_img" width="350" height="419">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">construccion edificio ventana arquitectura area residencial, filosofia corporativa, empresa, edificio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">475x571px</span>
+		    <span class="right">373.13KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 3550px; left: 1122px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/447/166/png-clipart-house-real-estate-property-bank-house-building-grass.png">
+		<meta itemprop="keywords" content="edificio, hierba, ventana, préstamo, césped, villa, renovación, banco, elevación, займ под залог недвижимости, займы под залог, залог недвижимости, vía muerta, под залог, techo, galería de fotos de windows, cabaña, compresión de datos, inmuebles, fachada, casa, paisajismo, objetos, под залог недвижимости, bienes raíces, propiedad, banco - casa, real, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-cbupy" target="_blank">
+		        <img itemprop="thumbnail" alt="casa propiedad inmobiliaria banco, casa, edificio, hierba png thumbnail" title="casa propiedad inmobiliaria banco, casa, edificio, hierba png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/447/166/png-clipart-house-real-estate-property-bank-house-building-grass-thumbnail.png" class="lazy lst_img" width="350" height="256">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">casa propiedad inmobiliaria banco, casa, edificio, hierba png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">598x439px</span>
+		    <span class="right">412.36KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 3645px; left: 1496px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/91/1000/png-clipart-several-buildings-illustration-technology-resource-material-building-company-house-angle-condominium.png">
+		<meta itemprop="keywords" content="ángulo, condominio, ciudad, casas, rascacielos, horizonte, elevación, metrópoli, diseño urbano, Casa embrujada, paisaje urbano, área metropolitana, objetos, bienes raíces, cielo, arquitectura, edificio de apartamentos, bloque de pisos, línea, alojamiento, edificio comercial, tiempo de día, inmuebles, fachada, sedes corporativas, iconos de computadora, logotipo de la casa, plan de la casa, cosas de la casa, edificio alto, tecnología, recurso, material, edificio, empresa, casa, varios, edificios, ilustración, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-bicfa" target="_blank">
+		        <img itemprop="thumbnail" alt="Ilustración de varios edificios, empresa de materiales de recursos tecnológicos, casa., ángulo, condominio png thumbnail" title="Ilustración de varios edificios, empresa de materiales de recursos tecnológicos, casa., ángulo, condominio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/91/1000/png-clipart-several-buildings-illustration-technology-resource-material-building-company-house-angle-condominium-thumbnail.png" class="lazy lst_img" width="350" height="366">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Ilustración de varios edificios, empresa de materiales de recursos tecnológicos, casa., ángulo, condominio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1964x2060px</span>
+		    <span class="right">3.53MB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 3708px; left: 374px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/266/757/png-clipart-blue-and-white-house-illustration-architectural-rendering-architecture-villa-architectural-designer-houses-angle-building.png">
+		<meta itemprop="keywords" content="ángulo, edificio, habitación, casas, ventana, propiedad, elevación, objetos, bienes raíces, residencia, techo, edificio de apartamentos, vía muerta, fotografía de stock, dibujo técnico, alojamiento, dibujo arquitectónico, Art º, casa de dibujos animados, la luz del día, dibujo, fachada, casa, modelo arquitectónico, plan de la casa, cosas de la casa, logotipo de la casa, representación arquitectónica, arquitectura, villa, diseñador arquitectónico, azul, blanco, ilustración, arquitectónico, representación, diseñador, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-blipl" target="_blank">
+		        <img itemprop="thumbnail" alt="Ilustración de la casa azul y blanca, arquitectura de representación arquitectónica villa diseñador arquitectónico, casas, ángulo, edificio png thumbnail" title="Ilustración de la casa azul y blanca, arquitectura de representación arquitectónica villa diseñador arquitectónico, casas, ángulo, edificio png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/266/757/png-clipart-blue-and-white-house-illustration-architectural-rendering-architecture-villa-architectural-designer-houses-angle-building-thumbnail.png" class="lazy lst_img" width="350" height="313">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Ilustración
+ de la casa azul y blanca, arquitectura de representación arquitectónica
+ villa diseñador arquitectónico, casas, ángulo, edificio png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">534x480px</span>
+		    <span class="right">315.18KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 3708px; left: 748px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/37/158/png-clipart-condominium-loft-apartment-building-real-estate-apartment-building-apartment.png">
+		<meta itemprop="keywords" content="edificio, apartamento, habitación, ventana, propiedad, elevación, metrópoli, bloque de pisos, metro cuadrado, mundo de viajes, centro, Barrio residencial, sedes corporativas, ponta grossa, barrio, Uso mixto, edificio comercial, desván, fachada, dormitorio, área metropolitana, condominio, apartamento loft, edificio de apartamentos, bienes raíces, real, inmuebles, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-czlmw" target="_blank">
+		        <img itemprop="thumbnail" alt="condominio loft edificio de apartamentos inmobiliario, apartamento, edificio, apartamento png thumbnail" title="condominio loft edificio de apartamentos inmobiliario, apartamento, edificio, apartamento png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/37/158/png-clipart-condominium-loft-apartment-building-real-estate-apartment-building-apartment-thumbnail.png" class="lazy lst_img" width="350" height="450">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">condominio loft edificio de apartamentos inmobiliario, apartamento, edificio, apartamento png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">576x744px</span>
+		    <span class="right">171.62KB</span>
+		</footer>
+	</li>
+    
+            	<li itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="grid" style="position: absolute; margin: 0px; top: 3921px; left: 1122px;">
+	    <meta itemprop="fileFormat" content="image/png">
+		<link itemprop="contentUrl" href="https://e7.pngegg.com/pngimages/1004/56/png-clipart-finance-state-bank-of-india-financial-institution-debt-consolidation-bank-building-india.png">
+		<meta itemprop="keywords" content="edificio, India, ventana, préstamo, elevación, propiedad, banco, tarjeta de débito, ingresos, institución financiera no bancaria, arquitectura, objetos, bienes raíces, cuenta de ahorros, banco estatal de India, impuesto, casa, Banco Central, arquitectura clasica, sociedad, crédito, consolidación de la deuda, inmuebles, fachada, financiar, institución financiera, servicios financieros, casa historica, банк, estado, financiero, institución, deuda, consolidación, png, png transparente, Descarga gratis">
+		<figure>
+		    <a itemprop="url" href="https://www.pngegg.com/es/png-tbcru" target="_blank">
+		        <img itemprop="thumbnail" alt="Finanzas Banco estatal de india Institución financiera Consolidación de deuda, Banco., edificio, India png thumbnail" title="Finanzas Banco estatal de india Institución financiera Consolidación de deuda, Banco., edificio, India png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=" data-src="https://e7.pngegg.com/pngimages/1004/56/png-clipart-finance-state-bank-of-india-financial-institution-debt-consolidation-bank-building-india-thumbnail.png" class="lazy lst_img" width="350" height="230">
+		    </a>
+		    <figcaption itemprop="caption description" class="title">Finanzas Banco estatal de india Institución financiera Consolidación de deuda, Banco., edificio, India png</figcaption>
+		</figure>
+		<footer>
+		    <span class="left">1680x1110px</span>
+		    <span class="right">115.19KB</span>
+		</footer>
+	</li>
+    	</ul>
+    <span class="clear"></span>
+	<button id="loader" value="1" data-mod="view" data-url="https://www.pngegg.com/es/related-xhqkd">Carga más</button>
+</section>
+        </main><iframe style="width: 0px; height: 0px; border: medium; z-index: -1000; left: -1000px; top: -1000px; display: none;" name="googlefcPresent"></iframe>
+        <footer id="ft">
+                            <ins class="staticpubads89354 adCreator" data-sizes-desktop="728x90,990x90,750x100,700x100" data-slot="StickyFooter"></ins>
+                        <section id="footer" class="resp">
+                <ul>
+                                        <li>
+                        <a href="https://www.pngegg.com/tos" rel="nofollow">Terms Of Use</a>
+                    </li>
+                    <li>
+                        <a href="https://www.pngegg.com/privacy-policy" rel="nofollow">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a href="mailto:pngegg.com@gmail.com" class="mailtoui">Contact Us</a>
+                    </li>
+                </ul>
+            </section>
+            <span role="button" title="scroll to top" id="scrolltop"></span>
+            <script>var site='https://www.pngegg.com';</script>
+            <script src="casas_files/global.js"></script>
+                            <script src="casas_files/cookieconsent.min.js" data-cfasync="false"></script>
+                <script>
+                window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                    "background": "#edeff5",
+                    "text": "#838391"
+                    },
+                    "button": {
+                    "background": "#4b81e8"
+                    }
+                },
+                "theme": "edgeless",
+                "content": {
+                    "href": "https://www.pngegg.com/privacy-policy"
+                }
+                });
+                </script>
+                        <!--<script src="https://get.geojs.io/v1/ip/country.js"></script>-->
+        </footer>
+    
+        
+            <div id="oa-360-1746327953885_eqdksyoe0" style="width: 100%; position: fixed; left: 0px; z-index: 9998; display: flex; justify-content: space-around; flex-direction: column; pointer-events: none; background: rgb(255, 255, 255); bottom: 0px; box-shadow: rgba(17, 58, 102, 0.45) 0px 4px 6px 3px; visibility: hidden;"><div id="oa-360-1746327953885_j072ub3p4" style="height: 4px; background: inherit;"></div></div><iframe marginwidth="0" marginheight="0" scrolling="no" frameborder="0" id="1617416df79df1" width="0" height="0" src="casas_files/a_011.html" style="display: none; height: 0px; width: 0px; border: 0px;" name="__pb_locator__"></iframe><iframe name="__tcfapiLocator" src="casas_files/a_011.html" style="display: none; width: 0px; height: 0px; border: medium; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcInactive" src="casas_files/a_011.html" style="display: none; width: 0px; height: 0px; border: medium; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcLoaded" src="casas_files/a_011.html" style="display: none; width: 0px; height: 0px; border: medium; z-index: -1000; left: -1000px; top: -1000px;"></iframe></body><iframe sandbox="allow-scripts allow-same-origin" id="809fc5a4aafa1b1" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="casas_files/usersync.html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="815c37ad6e1bf1d" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://creativecdn.com/cm-notify?pi=admatic">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="822deb9a0ef87c4" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://cm.adform.net/cookie?redirect_url=https%3A%2F%2Fsync.console.adtarget.com.tr%2Fcsync%3Ft%3Dg%26ep%3D50%26traffic_source%3Dsnippet%26sp%3D893648%26pb%3D765714%26c%3D830853%26a%3D767598%26domain%3Dhttps%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-xhqkd%26extuid%3D%24UID">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="83fd0991cef224e8" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://acdn.adnxs.com/dmp/async_usersync.html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="84ca89e887354c6" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://prebid.a-mo.net/isyn?gdpr_consent=&amp;gdpr=0&amp;us_privacy=&amp;gpp=&amp;gpp_sid=">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="85317cb6895e28" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://onetag-sys.com/usync/?cb=1746327954227&amp;gdpr=0">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="86a029b0786b5288" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://prebid.a-mo.net/cchain/0?gdpr=0&amp;gdpr_consent={gdpr_consent}&amp;us_privacy={us_privacy}&amp;cb=https%3A%2F%2Fsync.console.adtarget.com.tr%2Fcsync%3Ft%3Dg%26ep%3D737%26traffic_source%3Dsnippet%26sp%3D893648%26pb%3D765714%26c%3D834434%26a%3D776803%26domain%3Dhttps%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-xhqkd%26extuid%3D%24%7BUID%7D">
+    </iframe></html>

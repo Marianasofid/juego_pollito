@@ -1,6 +1,9 @@
+import os
 import sys
 
 import pygame
+
+cwd = os.getcwd()
 
 # Colores
 BLANCO = (255, 255, 255)
@@ -19,38 +22,63 @@ pygame.display.set_caption("Salva al pollito")
 
 clock = pygame.time.Clock()
 
-# Tamaño del carro
-TAMANO_CARRO = 40
 TAMANO_CUADRO = 25
+
+
+# Tamaño del carro
+TAMANO_CARRO_X = 70
+TAMANO_CARRO_Y = 50
+
+
+TAMANO_POLLO_X = 30
+TAMANO_POLLO_Y = 30
+
+DIMENSION_CARRO = (TAMANO_CARRO_X, TAMANO_CARRO_Y)
+DIMENSION_POLLO = (TAMANO_POLLO_X, TAMANO_POLLO_Y)
+
+# Configura imagen pollo
+imagen_pollito = pygame.image.load(f"{cwd}/assets/pollito.png")
+imagen_pollito = pygame.transform.scale(imagen_pollito, DIMENSION_POLLO)
+
+# Configura imagen carro
+imagen_carro = pygame.image.load("assets/caryellow.webp")
+imagen_carro = pygame.transform.scale(imagen_carro, DIMENSION_CARRO)
+
+factor_velocidad = 6
 
 
 # Clase Carro
 class Carro(pygame.sprite.Sprite):
-    def __init__(self, color, x, y, direccion):
+    def __init__(self, color, ubicacion_x, ubucacion_y, direccion, invertir=False):
         super().__init__()
-        self.image = pygame.Surface((TAMANO_CARRO, TAMANO_CARRO))
-        self.image.fill(color)
+        self.image = imagen_carro  # Aseguramos que la imagen conserve la transparencia
         self.rect = self.image.get_rect()
-        self.rect.x = x
-        self.rect.y = y
+        self.rect.x = ubicacion_x
+        self.rect.y = ubucacion_y
         self.direccion = direccion
+
+        if invertir:
+            self.image = pygame.transform.flip(imagen_carro, True, False)
 
     def update(self):
         # Aumentamos la velocidad cambiando el valor de multiplicación a 4
-        self.rect.x += self.direccion * 8  # para aumentar la velocidad
-        if self.rect.x < -TAMANO_CARRO:
+        self.rect.x += self.direccion * factor_velocidad  # para aumentar la velocidad
+
+        if self.rect.x < -TAMANO_CUADRO:
             self.rect.x = 800
+
         elif self.rect.x > 800:
-            self.rect.x = -TAMANO_CARRO
+            self.rect.x = -TAMANO_CUADRO
 
 
 # Clase Cuadro Amarillo
-class CuadroAmarillo(pygame.sprite.Sprite):
+class Pollito(pygame.sprite.Sprite):
     def __init__(self):
         super().__init__()
-        self.image = pygame.Surface((TAMANO_CUADRO, TAMANO_CUADRO))
-        self.image.fill(AMARILLO)
+        self.image = imagen_pollito
         self.rect = self.image.get_rect()
+
+        # ubucacion inicial pollo
         self.rect.x = 400
         self.rect.y = 500
         self.velocidad = 5
@@ -90,22 +118,22 @@ grupo_carros_superior.add(
 
 # Carros abajo (dos carriles)
 grupo_carros_inferior.add(
-    Carro(ROJO, 50, 400, 1),
-    Carro(AZUL, 200, 340, 1),
-    Carro(VERDE, 350, 400, 1),
-    Carro(MARRON, 500, 340, 1),
-    Carro(GRIS, 650, 400, 1),
+    Carro(ROJO, 50, 400, 1, True),
+    Carro(AZUL, 200, 340, 1, True),
+    Carro(VERDE, 350, 400, 1, True),
+    Carro(MARRON, 500, 340, 1, True),
+    Carro(GRIS, 650, 400, 1, True),
 )
 
 # Crear el cuadro amarillo
-cuadro_amarillo = CuadroAmarillo()
+pollito = Pollito()
 
 # Grupo de sprites para el cuadro amarillo
-grupo_cuadro_amarillo = pygame.sprite.Group()
-grupo_cuadro_amarillo.add(cuadro_amarillo)
+grupo_pollito = pygame.sprite.Group()
+grupo_pollito.add(pollito)
 
 # Variables de vida
-vidas = 3
+vidas = 5
 fuente = pygame.font.SysFont("Arial", 30)
 
 while 1:
@@ -116,15 +144,16 @@ while 1:
             sys.exit()
 
     teclas = pygame.key.get_pressed()
-    cuadro_amarillo.update(teclas)
+    pollito.update(teclas)
 
     # Detectar colisiones entre el cuadro amarillo y los carros
     if pygame.sprite.spritecollide(
-        cuadro_amarillo, grupo_carros_superior, False
-    ) or pygame.sprite.spritecollide(cuadro_amarillo, grupo_carros_inferior, False):
+        pollito, grupo_carros_superior, False
+    ) or pygame.sprite.spritecollide(pollito, grupo_carros_inferior, False):
         vidas -= 1  # Reduce la vida en caso de colisión
-        cuadro_amarillo.rect.x = 400  # Restablece la posición del cuadro amarillo
-        cuadro_amarillo.rect.y = 500
+        pollito.rect.x = 400  # Restablece la posición del cuadro amarillo
+        pollito.rect.y = 500
+        factor_velocidad += 1  # Aumentar la velocidad del juego
 
     if vidas <= 0:
         # Mostrar mensaje de fin de juego
@@ -136,35 +165,21 @@ while 1:
 
     ventana.fill(BLANCO)
 
-    # Dibujo de carretera
-    pygame.draw.rect(ventana, NEGRO, (0, 150, 800, 330))
-    pygame.draw.rect(ventana, GRIS, (0, 310, 800, 10))
-    pygame.draw.rect(ventana, ROJO, (0, 150, 800, 20))
-    pygame.draw.rect(ventana, ROJO, (0, 470, 800, 20))
+    # dibujo de la carretera
+    carretera = [
+        (NEGRO, (0, 150, 800, 330)),
+        (GRIS, (0, 310, 800, 10)),
+        (ROJO, (0, 150, 800, 20)),
+        (ROJO, (0, 470, 800, 20)),
+    ]
 
-    pygame.draw.rect(ventana, BLANCO, (30, 390, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (100, 390, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (170, 390, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (240, 390, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (315, 390, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (390, 390, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (460, 390, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (530, 390, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (600, 390, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (670, 390, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (733, 390, 30, 5))
+    for color, dimensiones in carretera:
+        pygame.draw.rect(ventana, color, dimensiones)
 
-    pygame.draw.rect(ventana, BLANCO, (30, 235, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (100, 235, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (170, 235, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (240, 235, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (315, 235, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (390, 235, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (460, 235, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (530, 235, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (600, 235, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (670, 235, 30, 5))
-    pygame.draw.rect(ventana, BLANCO, (733, 235, 30, 5))
+    # Optimización de la creación de rectángulos con un patrón
+    for x in range(30, 734, 70):
+        pygame.draw.rect(ventana, BLANCO, (x, 390, 30, 5))
+        pygame.draw.rect(ventana, BLANCO, (x, 235, 30, 5))
 
     # Actualizar y dibujar carros
     grupo_carros_superior.update()
@@ -177,19 +192,13 @@ while 1:
     ventana.blit(texto_vidas, (650, 20))
 
     # Dibujar el cuadro amarillo
-    grupo_cuadro_amarillo.draw(ventana)
+    grupo_pollito.draw(ventana)
 
     # Dibujar casas en la parte superior blanca
     pygame.draw.rect(ventana, MARRON, (100, 60, 60, 60))
-    pygame.draw.polygon(ventana, ROJO, [(100, 60), (130, 30), (160, 60)])
-    pygame.draw.rect(ventana, NEGRO, (125, 90, 10, 30))
 
     pygame.draw.rect(ventana, VERDE, (250, 60, 60, 60))
-    pygame.draw.polygon(ventana, ROJO, [(250, 60), (280, 30), (310, 60)])
-    pygame.draw.rect(ventana, NEGRO, (275, 90, 10, 30))
 
     pygame.draw.rect(ventana, AZUL, (400, 60, 60, 60))
-    pygame.draw.polygon(ventana, ROJO, [(400, 60), (430, 30), (460, 60)])
-    pygame.draw.rect(ventana, NEGRO, (425, 90, 10, 30))
 
     pygame.display.flip()
